@@ -1,242 +1,1917 @@
 [
-  {
-    "name": "Access Bank",
-    "slug": "access-bank",
-    "code": "044",
-    "ussd": "*901#"
-  },
-  {
-    "name": "Access Bank (Diamond)",
-    "slug": "access-bank-diamond",
-    "code": "063",
-    "ussd": "*426#"
-  },
-  {
-    "name": "ALAT by WEMA",
-    "slug": "alat-by-wema",
-    "code": "035A",
-    "ussd": "*945*100#"
-  },
-  {
-    "name": "ASO Savings and Loans",
-    "slug": "asosavings",
-    "code": "401",
-    "ussd": ""
-  },
-  {
-    "name": "Bowen Microfinance Bank",
-    "slug": "bowen-microfinance-bank",
-    "code": "50931",
-    "ussd": ""
-  },
-  {
-    "name": "CEMCS Microfinance Bank",
-    "slug": "cemcs-microfinance-bank",
-    "code": "50823",
-    "ussd": ""
-  },
-  {
-    "name": "Citibank Nigeria",
-    "slug": "citibank-nigeria",
-    "code": "023",
-    "ussd": ""
-  },
-  {
-    "name": "Ecobank Nigeria",
-    "slug": "ecobank-nigeria",
-    "code": "050",
-    "ussd": "*326#"
-  },
-  {
-    "name": "Ekondo Microfinance Bank",
-    "slug": "ekondo-microfinance-bank",
-    "code": "562",
-    "ussd": "*540*178#"
-  },
-  {
-    "name": "Fidelity Bank",
-    "slug": "fidelity-bank",
-    "code": "070",
-    "ussd": "*770#"
-  },
-  {
-    "name": "First Bank of Nigeria",
-    "slug": "first-bank-of-nigeria",
-    "code": "011",
-    "ussd": "*894#"
-  },
-  {
-    "name": "First City Monument Bank",
-    "slug": "first-city-monument-bank",
-    "code": "214",
-    "ussd": "*329#"
-  },
-  {
-    "name": "Globus Bank",
-    "slug": "globus-bank",
-    "code": "00103",
-    "ussd": "*989#"
-  },
-  {
-    "name": "Guaranty Trust Bank",
-    "slug": "guaranty-trust-bank",
-    "code": "058",
-    "ussd": "*737#"
-  },
-  {
-    "name": "Hasal Microfinance Bank",
-    "slug": "hasal-microfinance-bank",
-    "code": "50383",
-    "ussd": "*322*127#"
-  },
-  {
-    "name": "Heritage Bank",
-    "slug": "heritage-bank",
-    "code": "030",
-    "ussd": "*322#"
-  },
-  {
-    "name": "Jaiz Bank",
-    "slug": "jaiz-bank",
-    "code": "301",
-    "ussd": "*389*301#"
-  },
-  {
-    "name": "Keystone Bank",
-    "slug": "keystone-bank",
-    "code": "082",
-    "ussd": "*7111#"
-  },
-  {
-    "name": "Kuda Bank",
-    "slug": "kuda-bank",
-    "code": "50211",
-    "ussd": ""
-  },
-  {
-    "name": "One Finance",
-    "slug": "one-finance",
-    "code": "565",
-    "ussd": "*1303#"
-  },
-  {
-    "name": "Paga",
-    "slug": "paga",
-    "code": "327",
-    "ussd": ""
-  },
-  {
-    "name": "Parallex Bank",
-    "slug": "parallex-bank",
-    "code": "526",
-    "ussd": "*322*318*0#"
-  },
-  {
-    "name": "PayCom",
-    "slug": "paycom",
-    "code": "100004",
-    "ussd": "*955#"
-  },
-  {
-    "name": "Polaris Bank",
-    "slug": "polaris-bank",
-    "code": "076",
-    "ussd": "*833#"
-  },
-  {
-    "name": "Providus Bank",
-    "slug": "providus-bank",
-    "code": "101",
-    "ussd": ""
-  },
-  {
-    "name": "Rubies MFB",
-    "slug": "rubies-mfb",
-    "code": "125",
-    "ussd": "*7797#"
-  },
-  {
-    "name": "Sparkle Microfinance Bank",
-    "slug": "sparkle-microfinance-bank",
-    "code": "51310",
-    "ussd": ""
-  },
-  {
-    "name": "Stanbic IBTC Bank",
-    "slug": "stanbic-ibtc-bank",
-    "code": "221",
-    "ussd": "*909#"
-  },
-  {
-    "name": "Standard Chartered Bank",
-    "slug": "standard-chartered-bank",
-    "code": "068",
-    "ussd": ""
-  },
-  {
-    "name": "Sterling Bank",
-    "slug": "sterling-bank",
-    "code": "232",
-    "ussd": "*822#"
-  },
-  {
-    "name": "Suntrust Bank",
-    "slug": "suntrust-bank",
-    "code": "100",
-    "ussd": "*5230#"
-  },
-  {
-    "name": "TAJ Bank",
-    "slug": "taj-bank",
-    "code": "302",
-    "ussd": "*898#"
-  },
-  {
-    "name": "TCF MFB",
-    "slug": "tcf-mfb",
-    "code": "51211",
-    "ussd": "*908#"
-  },
-  {
-    "name": "Titan Trust Bank",
-    "slug": "titan-trust-bank",
-    "code": "102",
-    "ussd": "*922#"
-  },
-  {
-    "name": "Union Bank of Nigeria",
-    "slug": "union-bank-of-nigeria",
-    "code": "032",
-    "ussd": "*826#"
-  },
-  {
-    "name": "United Bank For Africa",
-    "slug": "united-bank-for-africa",
-    "code": "033",
-    "ussd": "*919#"
-  },
-  {
-    "name": "Unity Bank",
-    "slug": "unity-bank",
-    "code": "215",
-    "ussd": "*7799#"
-  },
-  {
-    "name": "VFD",
-    "slug": "vfd",
-    "code": "566",
-    "ussd": ""
-  },
-  {
-    "name": "Wema Bank",
-    "slug": "wema-bank",
-    "code": "035",
-    "ussd": "*945#"
-  },
-  {
-    "name": "Zenith Bank",
-    "slug": "zenith-bank",
-    "code": "057",
-    "ussd": "*966#"
-  }
-]
+	{
+	  "code": "110005",
+	  "name": "3line Card Management Limited",
+	  "slug": "3line-card-management-limited"
+	},
+	{
+	  "name": "9 Payment Service Bank",
+	  "code": "120001",
+	  "slug": "9-payment-service-bank"
+	},
+	{
+	  "name": "AB Microfinance bank",
+	  "code": "090270",
+	  "slug": "ab-microfinance-bank"
+	},
+	{
+	  "name": "ABBEY MORTGAGE BANK",
+	  "code": "070010",
+	  "slug": "abbey-mortgage-bank"
+	},
+	{
+	  "name": "ABU Microfinance bank",
+	  "code": "090197",
+	  "slug": "abu-microfinance-bank"
+	},
+	{
+	  "name": "ACCION MFB",
+	  "code": "090134",
+	  "slug": "accion-mfb"
+	},
+	{
+	  "name": "AG MORTGAGE BANK PLC",
+	  "code": "100028",
+	  "slug": "ag-mortgage-bank-plc"
+	},
+	{
+	  "name": "AL-BARKAH MFB",
+	  "code": "090133",
+	  "slug": "al-barkah-mfb"
+	},
+	{
+	  "name": "ALLWORKERS MFB",
+	  "code": "090131",
+	  "slug": "allworkers-mfb"
+	},
+	{
+	  "name": "AMEGY MICROFINANCE BANK",
+	  "code": "090629",
+	  "slug": "amegy-microfinance-bank"
+	},
+	{
+	  "name": "AMML MFB",
+	  "code": "090116",
+	  "slug": "amml-mfb"
+	},
+	{
+	  "name": "APEKS Microfinance Bank",
+	  "code": "090143",
+	  "slug": "apeks-microfinance-bank"
+	},
+	{
+	  "name": "ASOSavings",
+	  "code": "090001",
+	  "slug": "asosavings"
+	},
+	{
+	  "name": "Above Only Microfinance bank",
+	  "code": "090260",
+	  "slug": "above-only-microfinance-bank"
+	},
+	{
+	  "name": "Abucoop Microfinance Bank",
+	  "code": "090424",
+	  "slug": "abucoop-microfinance-bank"
+	},
+	{
+	  "code": "090202",
+	  "name": "Accelerex Network Limited",
+	  "slug": "accelerex-network-limited"
+	},
+	{
+	  "name": "Access",
+	  "code": "000014",
+	  "slug": "access"
+	},
+	{
+	  "name": "Access Yelo & Beta",
+	  "code": "100052",
+	  "slug": "access-yelo-&-beta"
+	},
+	{
+	  "name": "Access(Diamond)",
+	  "code": "000005",
+	  "slug": "access(diamond)"
+	},
+	{
+	  "name": "AccessMobile",
+	  "code": "100013",
+	  "slug": "accessmobile"
+	},
+	{
+	  "code": "090483",
+	  "name": "Ada Microfinance Bank",
+	  "slug": "ada-microfinance-bank"
+	},
+	{
+	  "name": "Addosser MFBB",
+	  "code": "090160",
+	  "slug": "addosser-mfbb"
+	},
+	{
+	  "name": "Adeyemi College Staff Microfinance bank",
+	  "code": "090268",
+	  "slug": "adeyemi-college-staff-microfinance-bank"
+	},
+	{
+	  "name": "Afekhafe Microfinance Bank",
+	  "slug": "afekhafe-microfinance-bank"
+	},
+	{
+	  "name": "Alekun Microfinance bank",
+	  "code": "090259",
+	  "slug": "alekun-microfinance-bank"
+	},
+	{
+	  "code": "090297",
+	  "name": "Alert Microfinance Bank",
+	  "slug": "alert-microfinance-bank"
+	},
+	{
+	  "name": "Alhayat MFB",
+	  "code": "090277",
+	  "slug": "alhayat-mfb"
+	},
+	{
+	  "name": "Alphakapital MFB",
+	  "code": "090169",
+	  "slug": "alphakapital-mfb"
+	},
+	{
+	  "code": "090489",
+	  "name": "Alvana Microfinance Bank",
+	  "slug": "alvana-microfinance-bank"
+	},
+	{
+	  "code": "090394",
+	  "name": "Amac Microfinance Bank",
+	  "slug": "amac-microfinance-bank"
+	},
+	{
+	  "code": "090645",
+	  "name": "Amucha Microfinance Bank",
+	  "slug": "amucha-microfinance-bank"
+	},
+	{
+	  "name": "Amju MFB",
+	  "code": "090180",
+	  "slug": "amju-mfb"
+	},
+	{
+	  "code": "090476",
+	  "name": "Anchorage Microfinance Bank",
+	  "slug": "anchorage-microfinance-bank"
+	},
+	{
+	  "code": "090469",
+	  "name": "Aniocha Microfinance bank",
+	  "slug": "aniocha-microfinance-bank"
+	},
+	{
+	  "code": "090376",
+	  "name": "Apple Microfinance Bank",
+	  "slug": "apple-microfinance-bank"
+	},
+	{
+	  "name": "Arise MFB",
+	  "code": "090282",
+	  "slug": "arise-mfb"
+	},
+	{
+	  "code": "090287",
+	  "name": "AssetMatrix Microfinance Bank",
+	  "slug": "assetmatrix-microfinance-bank"
+	},
+	{
+	  "code": "090473",
+	  "name": "Assets Microfinance Bank",
+	  "slug": "assets-microfinance-bank"
+	},
+	{
+	  "name": "Astrapolis MFB",
+	  "code": "090172",
+	  "slug": "astrapolis-mfb"
+	},
+	{
+	  "name": "Auchi Microfinance bank",
+	  "code": "090264",
+	  "slug": "auchi-microfinance-bank"
+	},
+	{
+	  "name": "Bankly Microfinance Bank",
+	  "code": "090529",
+	  "slug": "bankly-microfinance-bank"
+	},
+	{
+	  "name": "BC Kash MFB",
+	  "code": "090127",
+	  "slug": "bc-kash-mfb"
+	},
+	{
+	  "code": "090336",
+	  "name": "BIPC Microfinance Bank",
+	  "slug": "bipc-microfinance-bank"
+	},
+	{
+	  "name": "BLUEWHALES MFB",
+	  "code": "090431",
+	  "slug": "bluewhales-mfb"
+	},
+	{
+	  "code": "090444",
+	  "name": "BOI Microfinance Bank",
+	  "slug": "boi-microfinance-bank"
+	},
+	{
+	  "name": "BONGHE MFB",
+	  "code": "090319",
+	  "slug": "bonghe-mfb"
+	},
+	{
+	  "name": "Baines Credit MFB",
+	  "code": "090188",
+	  "slug": "baines-credit-mfb"
+	},
+	{
+	  "code": "090181",
+	  "name": "Balogun Fulani Microfinance Bank",
+	  "slug": "balogun-fulani-microfinance-bank"
+	},
+	{
+	  "code": "090326",
+	  "name": "Balogun Gambari Microfinance Bank",
+	  "slug": "balogun-gambari-microfinance-bank"
+	},
+	{
+	  "name": "Banex MFB",
+	  "code": "090425",
+	  "slug": "banex-mfb"
+	},
+	{
+	  "code": "090581",
+	  "name": "Banc Corp Microfinance Bank",
+	  "slug": "banc-corp-microfinance-bank"
+	},
+	{
+	  "name": "Boctrust Microfinance Bank",
+	  "code": "090117",
+	  "slug": "boctrust-microfinance-bank"
+	},
+	{
+	  "code": "090494",
+	  "name": "Boji MFB",
+	  "slug": "boji-mfb"
+	},
+	{
+	  "code": "090395",
+	  "name": "Borgu Microfinance Bank",
+	  "slug": "borgu-microfinance-bank"
+	},
+	{
+	  "name": "Bosak MFB",
+	  "code": "090176",
+	  "slug": "bosak-mfb"
+	},
+	{
+	  "name": "Bowen MFB",
+	  "code": "090148",
+	  "slug": "bowen-mfb"
+	},
+	{
+	  "name": "Brent Mortgage Bank",
+	  "code": "070015",
+	  "slug": "brent-mortgage-bank"
+	},
+	{
+	  "name": "Brethren MFB",
+	  "code": "090293",
+	  "slug": "brethren-mfb"
+	},
+	{
+	  "name": "Bridgeway MFB",
+	  "code": "090363",
+	  "slug": "bridgeway-mfb"
+	},
+	{
+	  "code": "090308",
+	  "name": "Brightway Microfinance Bank",
+	  "slug": "brightway-microfinance-bank"
+	},
+	{
+	  "code": "090406",
+	  "name": "Business Support Microfinance Bank",
+	  "slug": "business-support-microfinance-bank"
+	},
+	{
+	  "name": "CAPSTONE MFB",
+	  "code": "090445",
+	  "slug": "capstone-mfb"
+	},
+	{
+	  "name": "Carbon",
+	  "code": "100026",
+	  "slug": "carbon"
+	},
+	{
+	  "name": "CEMCS MFB",
+	  "code": "090154",
+	  "slug": "cemcs-mfb"
+	},
+	{
+	  "name": "CHERISH MFB",
+	  "code": "090440",
+	  "slug": "cherish-mfb"
+	},
+	{
+	  "name": "CHIBUEZE MFB",
+	  "code": "090416",
+	  "slug": "chibueze-mfb"
+	},
+	{
+	  "name": "CIT Microfinance Bank",
+	  "code": "090144",
+	  "slug": "cit-microfinance-bank"
+	},
+	{
+	  "name": "CONSUMER  MFB",
+	  "code": "090130",
+	  "slug": "consumer-mfb"
+	},
+	{
+	  "name": "COOP Mortgage Bank",
+	  "code": "070021",
+	  "slug": "coop-mortgage-bank"
+	},
+	{
+	  "name": "CROSS RIVER MFB",
+	  "code": "090429",
+	  "slug": "cross-river-mfb"
+	},
+	{
+	  "name": "Crust Microfinance Bank",
+	  "code": "090560",
+	  "slug": "crust-microfinance-bank"
+	},
+	{
+	  "name": "CRUTECH MFB",
+	  "code": "090414",
+	  "slug": "crutech-mfb"
+	},
+	{
+	  "code": "090472",
+	  "name": "Caretaker Microfinance Bank",
+	  "slug": "caretaker-microfinance-bank"
+	},
+	{
+	  "code": "090360",
+	  "name": "CashConnect Microfinance Bank",
+	  "slug": "cashconnect-microfinance-bank"
+	},
+	{
+	  "name": "Cellulant",
+	  "code": "100005",
+	  "slug": "cellulant"
+	},
+	{
+	  "name": "Chanelle MFB",
+	  "code": "090397",
+	  "slug": "chanelle-mfb"
+	},
+	{
+	  "name": "Changan RTS MFB",
+	  "code": "090470",
+	  "slug": "changan-rts-mfb"
+	},
+	{
+	  "code": "090523",
+	  "name": "Chase Microfinance Bank",
+	  "slug": "chase-microfinance-bank"
+	},
+	{
+	  "name": "Chikum Microfinance Bank",
+	  "code": "090141",
+	  "slug": "chikum-microfinance-bank"
+	},
+	{
+	  "code": "090490",
+	  "name": "Chukwunenye MFB",
+	  "slug": "chukwunenye-mfb"
+	},
+	{
+	  "name": "CitiBank",
+	  "code": "000009",
+	  "slug": "citibank"
+	},
+	{
+	  "code": "090254",
+	  "name": "Coalcamp Microfinance Bank",
+	  "slug": "coalcamp-microfinance-bank"
+	},
+	{
+	  "code": "090374",
+	  "name": "Coastline Microfinance Bank",
+	  "slug": "coastline-microfinance-bank"
+	},
+	{
+	  "name": "Contec Global",
+	  "code": "100032",
+	  "slug": "contec-global"
+	},
+	{
+	  "code": "090365",
+	  "name": "Corestep Microfinance Bank",
+	  "slug": "corestep-microfinance-bank"
+	},
+	{
+	  "name": "Coronation",
+	  "code": "060001",
+	  "slug": "coronation"
+	},
+	{
+	  "name": "Covenant MFB",
+	  "code": "070006",
+	  "slug": "covenant-mfb"
+	},
+	{
+	  "name": "Credit Afrique MFB",
+	  "code": "090159",
+	  "slug": "credit-afrique-mfb"
+	},
+	{
+	  "code": "110017",
+	  "name": "Crowdforce",
+	  "slug": "crowdforce"
+	},
+	{
+	  "code": "110014",
+	  "name": "Cyberspace Limited",
+	  "slug": "cyberspace-limited"
+	},
+	{
+	  "code": "090391",
+	  "name": "Davodani Microfinance Bank",
+	  "slug": "davodani-microfinance-bank"
+	},
+	{
+	  "name": "Daylight Microfinance Bank",
+	  "code": "090167",
+	  "slug": "daylight-microfinance-bank"
+	},
+	{
+	  "code": "070023",
+	  "name": "Delta Trust Microfinance Bank",
+	  "slug": "delta-trust-microfinance-bank"
+	},
+	{
+	  "code": "090389",
+	  "name": "EK-Reliable Microfinance Bank",
+	  "slug": "ek-reliable-microfinance-bank"
+	},
+	{
+	  "name": "EMPIRE Trust MFB",
+	  "code": "090114",
+	  "slug": "empire-trust-mfb"
+	},
+	{
+	  "code": "090294",
+	  "name": "Eagle Flight Microfinance Bank",
+	  "slug": "eagle-flight-microfinance-bank"
+	},
+	{
+	  "name": "Eartholeum",
+	  "code": "100021",
+	  "slug": "eartholeum"
+	},
+	{
+	  "code": "100030",
+	  "name": "EcoMobile",
+	  "slug": "ecomobile"
+	},
+	{
+	  "name": "Ecobank",
+	  "code": "000010",
+	  "slug": "ecobank"
+	},
+	{
+	  "name": "Ecobank Xpress Account",
+	  "code": "100008",
+	  "slug": "ecobank-xpress-account"
+	},
+	{
+	  "code": "090310",
+	  "name": "EdFin Microfinance Bank",
+	  "slug": "edfin-microfinance-bank"
+	},
+	{
+	  "name": "Ekondo MFB",
+	  "code": "090097",
+	  "slug": "ekondo-mfb"
+	},
+	{
+	  "name": "Emeralds MFB",
+	  "code": "090273",
+	  "slug": "emeralds-mfb"
+	},
+	{
+	  "name": "Enterprise Bank",
+	  "code": "000019",
+	  "slug": "enterprise-bank"
+	},
+	{
+	  "name": "Esan MFB",
+	  "code": "090189",
+	  "slug": "esan-mfb"
+	},
+	{
+	  "name": "Eso-E Microfinance Bank",
+	  "code": "090166",
+	  "slug": "eso-e-microfinance-bank"
+	},
+	{
+	  "code": "090304",
+	  "name": "Evangel Microfinance Bank",
+	  "slug": "evangel-microfinance-bank"
+	},
+	{
+	  "code": "090332",
+	  "name": "Evergreen Microfinance Bank",
+	  "slug": "evergreen-microfinance-bank"
+	},
+	{
+	  "name": "Eyowo",
+	  "code": "090328",
+	  "slug": "eyowo"
+	},
+	{
+	  "name": "FAST MFB",
+	  "code": "090179",
+	  "slug": "fast-mfb"
+	},
+	{
+	  "name": "Fairmoney Microfinance Bank",
+	  "code": "090551",
+	  "slug": "fairmoney-microfinance-bank"
+	},
+	{
+	  "name": "FBN Morgages Limited",
+	  "code": "090107",
+	  "slug": "fbn-morgages-limited"
+	},
+	{
+	  "name": "FBNMobile",
+	  "code": "100014",
+	  "slug": "fbnmobile"
+	},
+	{
+	  "name": "FBNQuest",
+	  "code": "060002",
+	  "slug": "fbnquest"
+	},
+	{
+	  "name": "FCMB",
+	  "code": "000003",
+	  "slug": "fcmb"
+	},
+	{
+	  "code": "090409",
+	  "name": "FCMB BETA",
+	  "slug": "fcmb-beta"
+	},
+	{
+	  "name": "FCMB MOBILE",
+	  "code": "100031",
+	  "slug": "fcmb-mobile"
+	},
+	{
+	  "code": "090290",
+	  "name": "FCT Microfinance Bank",
+	  "slug": "fct-microfinance-bank"
+	},
+	{
+	  "name": "FET",
+	  "code": "100001",
+	  "slug": "fet"
+	},
+	{
+	  "name": "FFS Microfinance Bank",
+	  "code": "090153",
+	  "slug": "ffs-microfinance-bank"
+	},
+	{
+	  "code": "090507",
+	  "name": "FIMS MFB",
+	  "slug": "fims-mfb"
+	},
+	{
+	  "name": "FSDH",
+	  "code": "400001",
+	  "slug": "fsdh"
+	},
+	{
+	  "name": "FUTMINNA MFB",
+	  "code": "090438",
+	  "slug": "futminna-mfb"
+	},
+	{
+	  "name": "FUTO MFB",
+	  "code": "090158",
+	  "slug": "futo-mfb"
+	},
+	{
+	  "name": "Fame MFB",
+	  "code": "090330",
+	  "slug": "fame-mfb"
+	},
+	{
+	  "code": "090298",
+	  "name": "FedPoly Nasarawa Microfinance Bank",
+	  "slug": "fedpoly-nasarawa-microfinance-bank"
+	},
+	{
+	  "code": "090398",
+	  "name": "Federal Polytechnic Nekede Microfinance Bank",
+	  "slug": "federal-polytechnic-nekede-microfinance-bank"
+	},
+	{
+	  "code": "090318",
+	  "name": "Federal University Dutse Microfinance Bank",
+	  "slug": "federal-university-dutse-microfinance-bank"
+	},
+	{
+	  "code": "090482",
+	  "name": "Fedeth Microfinance Bank",
+	  "slug": "fedeth-microfinance-bank"
+	},
+	{
+	  "name": "FidFund MFB",
+	  "code": "090126",
+	  "slug": "fidfund-mfb"
+	},
+	{
+	  "name": "Fidelity",
+	  "code": "000007",
+	  "slug": "fidelity"
+	},
+	{
+	  "name": "Fidelity Mobile",
+	  "code": "100019",
+	  "slug": "fidelity-mobile"
+	},
+	{
+	  "name": "FinaTrust Microfinance Bank",
+	  "code": "090111",
+	  "slug": "finatrust-microfinance-bank"
+	},
+	{
+	  "code": "090366",
+	  "name": "Firmus Microfinance Bank",
+	  "slug": "firmus-microfinance-bank"
+	},
+	{
+	  "code": "110004",
+	  "name": "First Apple Limited",
+	  "slug": "first-apple-limited"
+	},
+	{
+	  "name": "First Bank",
+	  "code": "000016",
+	  "slug": "first-bank"
+	},
+	{
+	  "name": "First Generation Mortgage Bank",
+	  "code": "070014",
+	  "slug": "first-generation-mortgage-bank"
+	},
+	{
+	  "name": "First Multiple MFB",
+	  "code": "090163",
+	  "slug": "first-multiple-mfb"
+	},
+	{
+	  "code": "090285",
+	  "name": "First Option Microfinance Bank",
+	  "slug": "first-option-microfinance-bank"
+	},
+	{
+	  "name": "First Royal Microfinance Bank",
+	  "code": "090164",
+	  "slug": "first-royal-microfinance-bank"
+	},
+	{
+	  "code": "110002",
+	  "name": "Flutterwave Technology Solutions Limited",
+	  "slug": "flutterwave-technology-solutions-limited"
+	},
+	{
+	  "code": "090521",
+	  "name": "Foresight Microfinance Bank",
+	  "slug": "foresight-microfinance-bank"
+	},
+	{
+	  "name": "Fortis Microfinance Bank",
+	  "code": "070002",
+	  "slug": "fortis-microfinance-bank"
+	},
+	{
+	  "name": "FortisMobile",
+	  "code": "100016",
+	  "slug": "fortismobile"
+	},
+	{
+	  "name": "Full range MFB",
+	  "code": "090145",
+	  "slug": "full-range-mfb"
+	},
+	{
+	  "name": "GATEWAY MORTGAGE BANK",
+	  "code": "070009",
+	  "slug": "gateway-mortgage-bank"
+	},
+	{
+	  "name": "GIGINYA MFB",
+	  "code": "090411",
+	  "slug": "giginya-mfb"
+	},
+	{
+	  "name": "GIWA MICROFINANCE BANK",
+	  "code": "090441",
+	  "slug": "giwa-microfinance-bank"
+	},
+	{
+	  "name": "GLOBUS Bank",
+	  "code": "000027",
+	  "slug": "globus-bank"
+	},
+	{
+	  "code": "090408",
+	  "name": "GMB Microfinance Bank",
+	  "slug": "gmb-microfinance-bank"
+	},
+	{
+	  "name": "GoMoney",
+	  "code": "100022",
+	  "slug": "gomoney"
+	},
+	{
+	  "name": "GOWANS MFB",
+	  "code": "090122",
+	  "slug": "gowans-mfb"
+	},
+	{
+	  "name": "GREENWICH Merchant Bank",
+	  "code": "060004",
+	  "slug": "greenwich-merchant-bank"
+	},
+	{
+	  "name": "GTBank",
+	  "code": "000013",
+	  "slug": "gtbank"
+	},
+	{
+	  "code": "090385",
+	  "name": "GTI Microfinance Bank",
+	  "slug": "gti-microfinance-bank"
+	},
+	{
+	  "name": "GTMobile",
+	  "code": "100009",
+	  "slug": "gtmobile"
+	},
+	{
+	  "name": "Gashua Microfinance Bank",
+	  "code": "090168",
+	  "slug": "gashua-microfinance-bank"
+	},
+	{
+	  "code": "090475",
+	  "name": "Giant Stride Microfinance Bank",
+	  "slug": "giant-stride-microfinance-bank"
+	},
+	{
+	  "code": "090186",
+	  "name": "Girei Microfinance Bank",
+	  "slug": "girei-microfinance-bank"
+	},
+	{
+	  "name": "Glory MFB ",
+	  "code": "090278",
+	  "slug": "glory-mfb-"
+	},
+	{
+	  "code": "090467",
+	  "name": "Good Neigbours Microfinance Bank",
+	  "slug": "good-neigbours-microfinance-bank"
+	},
+	{
+	  "code": "090495",
+	  "name": "Goodnews Microfinance Bank",
+	  "slug": "goodnews-microfinance-bank"
+	},
+	{
+	  "name": "GreenBank MFB",
+	  "code": "090178",
+	  "slug": "greenbank-mfb"
+	},
+	{
+	  "name": "Greenville Microfinance bank",
+	  "code": "090269",
+	  "slug": "greenville-microfinance-bank"
+	},
+	{
+	  "name": "Grooming Microfinance bank",
+	  "code": "090195",
+	  "slug": "grooming-microfinance-bank"
+	},
+	{
+	  "name": "HASAL MFB",
+	  "code": "090121",
+	  "slug": "hasal-mfb"
+	},
+	{
+	  "name": "HIGHLAND MFB",
+	  "code": "090418",
+	  "slug": "highland-mfb"
+	},
+	{
+	  "code": "070024",
+	  "name": "HOMEBASE MORTGAGE BANK",
+	  "slug": "homebase-mortgage-bank"
+	},
+	{
+	  "name": "Hackman Microfinance Bank",
+	  "code": "090147",
+	  "slug": "hackman-microfinance-bank"
+	},
+	{
+	  "name": "Haggai Mortgage Bank",
+	  "code": "070017",
+	  "slug": "haggai-mortgage-bank"
+	},
+	{
+	  "name": "Hedonmark",
+	  "code": "100017",
+	  "slug": "hedonmark"
+	},
+	{
+	  "name": "Heritage",
+	  "code": "000020",
+	  "slug": "heritage"
+	},
+	{
+	  "name": "HighStreet MFB",
+	  "code": "090175",
+	  "slug": "highstreet-mfb"
+	},
+	{
+	  "name": "Hope PSB",
+	  "code": "120002",
+	  "slug": "hope-psb"
+	},
+	{
+	  "name": "IBILE Microfinance Bank",
+	  "code": "090118",
+	  "slug": "ibile-microfinance-bank"
+	},
+	{
+	  "code": "090520",
+	  "name": "IC Global Microfinance Bank",
+	  "slug": "ic-global-microfinance-bank"
+	},
+	{
+	  "name": "ILORIN MFB",
+	  "code": "090350",
+	  "slug": "ilorin-mfb"
+	},
+	{
+	  "name": "IRL Microfinance Bank",
+	  "code": "090149",
+	  "slug": "irl-microfinance-bank"
+	},
+	{
+	  "code": "090519",
+	  "name": "Iboma Fadama Microfinance Bank",
+	  "slug": "iboma-fadama-microfinance-bank"
+	},
+	{
+	  "code": "090324",
+	  "name": "Ikenne Microfinance Bank",
+	  "slug": "ikenne-microfinance-bank"
+	},
+	{
+	  "name": "Ikire MFB",
+	  "code": "090279",
+	  "slug": "ikire-mfb"
+	},
+	{
+	  "code": "090370",
+	  "name": "Ilisan Microfinance Bank",
+	  "slug": "ilisan-microfinance-bank"
+	},
+	{
+	  "name": "Imo Microfinance bank",
+	  "code": "090258",
+	  "slug": "imo-microfinance-bank"
+	},
+	{
+	  "name": "Imperial Homes Mortgage Bank",
+	  "code": "100024",
+	  "slug": "imperial-homes-mortgage-bank"
+	},
+	{
+	  "name": "Infinity MFB",
+	  "code": "090157",
+	  "slug": "infinity-mfb"
+	},
+	{
+	  "name": "Infinity trust  Mortgage Bank",
+	  "code": "070016",
+	  "slug": "infinity-trust-mortgage-bank"
+	},
+	{
+	  "name": "Innovectives Kesh",
+	  "code": "100029",
+	  "slug": "innovectives-kesh"
+	},
+	{
+	  "name": "Insight MFB",
+	  "code": "090434",
+	  "slug": "insight-mfb"
+	},
+	{
+	  "name": "Intellifin",
+	  "code": "100027",
+	  "slug": "intellifin"
+	},
+	{
+	  "code": "090386",
+	  "name": "Interland Microfinance Bank",
+	  "slug": "interland-microfinance-bank"
+	},
+	{
+	  "code": "110003",
+	  "name": "Interswitch Limited",
+	  "slug": "interswitch-limited"
+	},
+	{
+	  "code": "090377",
+	  "name": "Isaleoyo Microfinance Bank",
+	  "slug": "isaleoyo-microfinance-bank"
+	},
+	{
+	  "name": "Izon Microfinance Bank",
+	  "code": "090421",
+	  "slug": "izon-microfinance-bank"
+	},
+	{
+	  "name": "JAIZ",
+	  "code": "000006",
+	  "slug": "jaiz"
+	},
+	{
+	  "code": "090352",
+	  "name": "Jessefield Microfinance Bank",
+	  "slug": "jessefield-microfinance-bank"
+	},
+	{
+	  "name": "JubileeLife",
+	  "code": "090003",
+	  "slug": "jubileelife"
+	},
+	{
+	  "name": "KCMB MFB",
+	  "code": "090191",
+	  "slug": "kcmb-mfb"
+	},
+	{
+	  "name": "KREDI MONEY MFB",
+	  "code": "090380",
+	  "slug": "kredi-money-mfb"
+	},
+	{
+	  "name": "KUDA MFB",
+	  "code": "090267",
+	  "slug": "kuda-mfb"
+	},
+	{
+	  "name": "KWASU MFB",
+	  "code": "090450",
+	  "slug": "kwasu-mfb"
+	},
+	{
+	  "code": "090320",
+	  "name": "KadPoly Microfinance Bank",
+	  "slug": "kadpoly-microfinance-bank"
+	},
+	{
+	  "name": "Kegow",
+	  "code": "100015",
+	  "slug": "kegow"
+	},
+	{
+	  "code": "100036",
+	  "name": "Kegow (Chamsmobile)",
+	  "slug": "kegow-(chamsmobile)"
+	},
+	{
+	  "name": "Keystone",
+	  "code": "000002",
+	  "slug": "keystone"
+	},
+	{
+	  "code": "090299",
+	  "name": "Kontagora Microfinance Bank",
+	  "slug": "kontagora-microfinance-bank"
+	},
+	{
+	  "name": "LANDGOLD MFB",
+	  "code": "090422",
+	  "slug": "landgold-mfb"
+	},
+	{
+	  "name": "LBIC Mortgage Bank",
+	  "code": "070012",
+	  "slug": "lbic-mortgage-bank"
+	},
+	{
+	  "name": "LETSHEGO MFB",
+	  "code": "090420",
+	  "slug": "letshego-mfb"
+	},
+	{
+	  "name": "LINKS MFB",
+	  "code": "090435",
+	  "slug": "links-mfb"
+	},
+	{
+	  "name": "LOTUS BANK",
+	  "code": "000029",
+	  "slug": "lotus-bank"
+	},
+	{
+	  "name": "Lafayette Microfinance Bank",
+	  "code": "090155",
+	  "slug": "lafayette-microfinance-bank"
+	},
+	{
+	  "name": "Lapo MFB",
+	  "code": "090177",
+	  "slug": "lapo-mfb"
+	},
+	{
+	  "name": "Lavender Microfinance bank",
+	  "code": "090271",
+	  "slug": "lavender-microfinance-bank"
+	},
+	{
+	  "code": "090372",
+	  "name": "Legend Microfinance Bank",
+	  "slug": "legend-microfinance-bank"
+	},
+	{
+	  "code": "090477",
+	  "name": "Light MFB",
+	  "slug": "light-mfb"
+	},
+	{
+	  "name": "Lovonus Microfinance bank",
+	  "code": "090265",
+	  "slug": "lovonus-microfinance-bank"
+	},
+	{
+	  "code": "100035",
+	  "name": "M36",
+	  "slug": "m36"
+	},
+	{
+	  "name": "MAUTECH MFB",
+	  "code": "090423",
+	  "slug": "mautech-mfb"
+	},
+	{
+	  "name": "MINT-FINEX MFB",
+	  "code": "090281",
+	  "slug": "mint-finex-mfb"
+	},
+	{
+	  "name": "MONEYTRUST MFB",
+	  "code": "090129",
+	  "slug": "moneytrust-mfb"
+	},
+	{
+	  "code": "090323",
+	  "name": "Mainland Microfinance Bank",
+	  "slug": "mainland-microfinance-bank"
+	},
+	{
+	  "name": "Mainstreet MFB",
+	  "code": "090171",
+	  "slug": "mainstreet-mfb"
+	},
+	{
+	  "code": "090465",
+	  "name": "Maintrust Microfinance Bank",
+	  "slug": "maintrust-microfinance-bank"
+	},
+	{
+	  "name": "Malachy MFB",
+	  "code": "090174",
+	  "slug": "malachy-mfb"
+	},
+	{
+	  "code": "090410",
+	  "name": "Maritime Microfinance Bank",
+	  "slug": "maritime-microfinance-bank"
+	},
+	{
+	  "code": "090321",
+	  "name": "MayFair Microfinance Bank",
+	  "slug": "mayfair-microfinance-bank"
+	},
+	{
+	  "code": "070019",
+	  "name": "MayFresh Mortgage Bank",
+	  "slug": "mayfresh-mortgage-bank"
+	},
+	{
+	  "name": "Megapraise Microfinance Bank",
+	  "code": "090280",
+	  "slug": "megapraise-microfinance-bank"
+	},
+	{
+	  "name": "Memphis MFB",
+	  "code": "090432",
+	  "slug": "memphis-mfb"
+	},
+	{
+	  "name": "Meridian MFB",
+	  "code": "090275",
+	  "slug": "meridian-mfb"
+	},
+	{
+	  "name": "Microcred Microfinance Bank",
+	  "code": "090136",
+	  "slug": "microcred-microfinance-bank"
+	},
+	{
+	  "code": "090192",
+	  "name": "Midland Microfinance Bank",
+	  "slug": "midland-microfinance-bank"
+	},
+	{
+	  "name": "Mkudi",
+	  "code": "100011",
+	  "slug": "mkudi"
+	},
+	{
+	  "code": "120003",
+	  "name": "MoMo PSB",
+	  "slug": "momo-psb"
+	},
+	{
+	  "code": "090362",
+	  "name": "Molusi Microfinance Bank",
+	  "slug": "molusi-microfinance-bank"
+	},
+	{
+	  "name": "MoneyBox",
+	  "code": "100020",
+	  "slug": "moneybox"
+	},
+	{
+	  "code": "090448",
+	  "name": "Moyofade Microfinance Bank",
+	  "slug": "moyofade-microfinance-bank"
+	},
+	{
+	  "name": "Mutual Benefits MFB",
+	  "code": "090190",
+	  "slug": "mutual-benefits-mfb"
+	},
+	{
+	  "name": "Mutual Trust Microfinance Bank",
+	  "code": "090151",
+	  "slug": "mutual-trust-microfinance-bank"
+	},
+	{
+	  "name": "NICE MFB",
+	  "code": "090459",
+	  "slug": "nice-mfb"
+	},
+	{
+	  "name": "NIRSAL National microfinance bank",
+	  "code": "090194",
+	  "slug": "nirsal-national-microfinance-bank"
+	},
+	{
+	  "name": "NOVA MB",
+	  "code": "060003",
+	  "slug": "nova-mb"
+	},
+	{
+	  "name": "NPF MicroFinance Bank",
+	  "code": "070001",
+	  "slug": "npf-microfinance-bank"
+	},
+	{
+	  "name": "Nargata MFB",
+	  "code": "090152",
+	  "slug": "nargata-mfb"
+	},
+	{
+	  "name": "Navy Microfinance bank",
+	  "code": "090263",
+	  "slug": "navy-microfinance-bank"
+	},
+	{
+	  "name": "Ndiorah MFB",
+	  "code": "090128",
+	  "slug": "ndiorah-mfb"
+	},
+	{
+	  "code": "090329",
+	  "name": "Neptune Microfinance Bank",
+	  "slug": "neptune-microfinance-bank"
+	},
+	{
+	  "code": "090378",
+	  "name": "New Golden Pastures Microfinance Bank",
+	  "slug": "new-golden-pastures-microfinance-bank"
+	},
+	{
+	  "name": "New Prudential Bank",
+	  "code": "090108",
+	  "slug": "new-prudential-bank"
+	},
+	{
+	  "name": "Newdawn Microfinance bank",
+	  "code": "090205",
+	  "slug": "newdawn-microfinance-bank"
+	},
+	{
+	  "code": "090505",
+	  "name": "Nigerian Prisons Microfinance Bank",
+	  "slug": "nigerian-prisons-microfinance-bank"
+	},
+	{
+	  "code": "090283",
+	  "name": "Nnew Women Microfinance Bank",
+	  "slug": "nnew-women-microfinance-bank"
+	},
+	{
+	  "code": "090491",
+	  "name": "Nsuk MFB",
+	  "slug": "nsuk-mfb"
+	},
+	{
+	  "code": "090364",
+	  "name": "Nuture Microfinance Bank",
+	  "slug": "nuture-microfinance-bank"
+	},
+	{
+	  "code": "090399",
+	  "name": "Nwannegadi Microfinance Bank",
+	  "slug": "nwannegadi-microfinance-bank"
+	},
+	{
+	  "name": "OHAFIA MFB",
+	  "code": "090119",
+	  "slug": "ohafia-mfb"
+	},
+	{
+	  "code": "090468",
+	  "name": "OLOFIN OWENA Microfinance Bank",
+	  "slug": "olofin-owena-microfinance-bank"
+	},
+	{
+	  "name": "ONE FINANCE",
+	  "code": "100026",
+	  "slug": "one-finance"
+	},
+	{
+	  "name": "Optimus Bank",
+	  "code": "000036",
+	  "slug": "optimus-bank"
+	},
+	{
+	  "name": "ORITABASORUN MFB",
+	  "code": "090460",
+	  "slug": "oritabasorun-mfb"
+	},
+	{
+	  "name": "OSPOLY MFB",
+	  "code": "090456",
+	  "slug": "ospoly-mfb"
+	},
+	{
+	  "name": "OakLand MFB",
+	  "code": "090437",
+	  "slug": "oakland-mfb"
+	},
+	{
+	  "code": "090333",
+	  "name": "Oche Microfinance Bank",
+	  "slug": "oche-microfinance-bank"
+	},
+	{
+	  "name": "Okpoga MFB",
+	  "code": "090161",
+	  "slug": "okpoga-mfb"
+	},
+	{
+	  "name": "Olabisi Onabanjo university Microfinance bank",
+	  "code": "090272",
+	  "slug": "olabisi-onabanjo-university-microfinance-bank"
+	},
+	{
+	  "code": "090404",
+	  "name": "Olowolagba Microfinance Bank",
+	  "slug": "olowolagba-microfinance-bank"
+	},
+	{
+	  "code": "090471",
+	  "name": "Oluchukwu Microfinance Bank",
+	  "slug": "oluchukwu-microfinance-bank"
+	},
+	{
+	  "code": "090295",
+	  "name": "Omiye Microfinance Bank",
+	  "slug": "omiye-microfinance-bank"
+	},
+	{
+	  "name": "Omoluabi Mortgage Bank Plc",
+	  "code": "070007",
+	  "slug": "omoluabi-mortgage-bank-plc"
+	},
+	{
+	  "code": "090492",
+	  "name": "Oraukwu MFB",
+	  "slug": "oraukwu-mfb"
+	},
+	{
+	  "code": "090396",
+	  "name": "Oscotech Microfinance Bank",
+	  "slug": "oscotech-microfinance-bank"
+	},
+	{
+	  "name": "PARKWAY MFB",
+	  "code": "090390",
+	  "slug": "parkway-mfb"
+	},
+	{
+	  "name": "PEACE MFB",
+	  "code": "090402",
+	  "slug": "peace-mfb"
+	},
+	{
+	  "name": "PLATINUM MORTGAGE BANK",
+	  "code": "070013",
+	  "slug": "platinum-mortgage-bank"
+	},
+	{
+	  "name": "POLARIS BANK",
+	  "code": "000008",
+	  "slug": "polaris-bank"
+	},
+	{
+	  "name": "Paga",
+	  "code": "100002",
+	  "slug": "paga"
+	},
+	{
+	  "name": "Page MFBank",
+	  "code": "070008",
+	  "slug": "page-mfbank"
+	},
+	{
+	  "name": "PalmPay",
+	  "code": "100033",
+	  "slug": "palmpay"
+	},
+	{
+	  "name": "Parallex",
+	  "code": "000030",
+	  "slug": "parallex"
+	},
+	{
+	  "name": "Parkway-ReadyCash",
+	  "code": "100003",
+	  "slug": "parkway-readycash"
+	},
+	{
+	  "code": "090004",
+	  "name": "Parallex Bank",
+	  "slug": "parallex-bank"
+	},
+	{
+	  "code": "090317",
+	  "name": "PatrickGold Microfinance Bank",
+	  "slug": "patrickgold-microfinance-bank"
+	},
+	{
+	  "name": "PayAttitude Online",
+	  "code": "110001",
+	  "slug": "payattitude-online"
+	},
+	{
+	  "name": "Paycom / OPAY",
+	  "code": "100004",
+	  "slug": "paycom-/-opay"
+	},
+	{
+	  "name": "Pecan Trust Microfinance Bank",
+	  "code": "090137",
+	  "slug": "pecan-trust-microfinance-bank"
+	},
+	{
+	  "name": "Pennywise Microfinance bank",
+	  "code": "090196",
+	  "slug": "pennywise-microfinance-bank"
+	},
+	{
+	  "name": "Personal Trust Microfinance Bank",
+	  "code": "090135",
+	  "slug": "personal-trust-microfinance-bank"
+	},
+	{
+	  "name": "Petra Microfinance Bank",
+	  "code": "090165",
+	  "slug": "petra-microfinance-bank"
+	},
+	{
+	  "code": "090289",
+	  "name": "Pillar Microfinance Bank",
+	  "slug": "pillar-microfinance-bank"
+	},
+	{
+	  "code": "090296",
+	  "name": "Polyunwana Microfinance Bank",
+	  "slug": "polyunwana-microfinance-bank"
+	},
+	{
+	  "code": "090412",
+	  "name": "Preeminent Microfinance Bank",
+	  "slug": "preeminent-microfinance-bank"
+	},
+	{
+	  "name": "Prestige Microfinance bank",
+	  "code": "090274",
+	  "slug": "prestige-microfinance-bank"
+	},
+	{
+	  "code": "090499",
+	  "name": "Pristine Divitis Microfinance Bank",
+	  "slug": "pristine-divitis-microfinance-bank"
+	},
+	{
+	  "code": "090503",
+	  "name": "Projects Microfinance Bank",
+	  "slug": "projects-microfinance-bank"
+	},
+	{
+	  "name": "Providus",
+	  "code": "000023",
+	  "slug": "providus"
+	},
+	{
+	  "code": "090303",
+	  "name": "Purplemoney Microfinance Bank",
+	  "slug": "purplemoney-microfinance-bank"
+	},
+	{
+	  "name": "QuickFund Microfinance bank",
+	  "code": "090261",
+	  "slug": "quickfund-microfinance-bank"
+	},
+	{
+	  "name": "REGENT MFB",
+	  "code": "090125",
+	  "slug": "regent-mfb"
+	},
+	{
+	  "name": "RICHWAY MFB",
+	  "code": "090132",
+	  "slug": "richway-mfb"
+	},
+	{
+	  "name": "RIGO MFB",
+	  "code": "090433",
+	  "slug": "rigo-mfb"
+	},
+	{
+	  "code": "090515",
+	  "name": "RIMA Growth Pathway Microfinance Bank",
+	  "slug": "rima-growth-pathway-microfinance-bank"
+	},
+	{
+	  "name": "Rahama MFB",
+	  "code": "090170",
+	  "slug": "rahama-mfb"
+	},
+	{
+	  "name": "Rand Merchant Bank",
+	  "code": "000024",
+	  "slug": "rand-merchant-bank"
+	},
+	{
+	  "name": "Refuge Mortgage Bank",
+	  "code": "070011",
+	  "slug": "refuge-mortgage-bank"
+	},
+	{
+	  "code": "090463",
+	  "name": "Rehoboth Microfinance Bank",
+	  "slug": "rehoboth-microfinance-bank"
+	},
+	{
+	  "name": "Reliance MFB",
+	  "code": "090173",
+	  "slug": "reliance-mfb"
+	},
+	{
+	  "name": "Renmoney microfinance bank",
+	  "code": "090198",
+	  "slug": "renmoney-microfinance-bank"
+	},
+	{
+	  "code": "090322",
+	  "name": "Rephidim Microfinance Bank",
+	  "slug": "rephidim-microfinance-bank"
+	},
+	{
+	  "name": "Moniepoint Microfinance Bank",
+	  "code": "090405",
+	  "slug": "moniepoint-microfinance-bank"
+	},
+	{
+	  "name": "Royal Exchange Microfinance Bank",
+	  "code": "090138",
+	  "slug": "royal-exchange-microfinance-bank"
+	},
+	{
+	  "name": "Rubies MFB",
+	  "code": "090175",
+	  "slug": "rubies-mfb"
+	},
+	{
+	  "name": "SAFEGATE MFB",
+	  "code": "090485",
+	  "slug": "safegate-mfb"
+	},
+	{
+	  "code": "090513",
+	  "name": "SEAP Microfinance Bank",
+	  "slug": "seap-microfinance-bank"
+	},
+	{
+	  "name": "STB Mortgage Bank",
+	  "code": "070022",
+	  "slug": "stb-mortgage-bank"
+	},
+	{
+	  "name": "STOCKCORP MFB",
+	  "code": "090340",
+	  "slug": "stockcorp-mfb"
+	},
+	{
+	  "name": "SUNBEAM MFB",
+	  "code": "090302",
+	  "slug": "sunbeam-mfb"
+	},
+	{
+	  "name": "SUNTRUST",
+	  "code": "000022",
+	  "slug": "suntrust"
+	},
+	{
+	  "name": "SUPPORT MFB",
+	  "code": "090446",
+	  "slug": "support-mfb"
+	},
+	{
+	  "name": "Safe Haven MFB",
+	  "code": "090286",
+	  "slug": "safe-haven-mfb"
+	},
+	{
+	  "name": "SafeTrust",
+	  "code": "090006",
+	  "slug": "safetrust"
+	},
+	{
+	  "name": "Sagamu Microfinance Bank",
+	  "code": "090140",
+	  "slug": "sagamu-microfinance-bank"
+	},
+	{
+	  "name": "Seed Capital Microfinance Bank",
+	  "code": "090112",
+	  "slug": "seed-capital-microfinance-bank"
+	},
+	{
+	  "code": "090369",
+	  "name": "Seedvest Microfinance Bank",
+	  "slug": "seedvest-microfinance-bank"
+	},
+	{
+	  "code": "090502",
+	  "name": "Shalom Microfinance Bank",
+	  "slug": "shalom-microfinance-bank"
+	},
+	{
+	  "code": "090401",
+	  "name": "Shepherd Trust Microfinance Bank",
+	  "slug": "shepherd-trust-microfinance-bank"
+	},
+	{
+	  "code": "090506",
+	  "name": "Solid Allianze MFB",
+	  "slug": "solid-allianze-mfb"
+	},
+	{
+	  "code": "090524",
+	  "name": "SolidRock Microfinance Bank",
+	  "slug": "solidrock-microfinance-bank"
+	},
+	{
+	  "name": "Sparkle",
+	  "code": "090325",
+	  "slug": "sparkle"
+	},
+	{
+	  "name": "Spectrum MFB",
+	  "code": "090436",
+	  "slug": "spectrum-mfb"
+	},
+	{
+	  "name": "Stanbic IBTC",
+	  "code": "000012",
+	  "slug": "stanbic-ibtc"
+	},
+	{
+	  "name": "Stanbic Mobile Money",
+	  "code": "100007",
+	  "slug": "stanbic-mobile-money"
+	},
+	{
+	  "name": "Standard Chartered",
+	  "code": "000021",
+	  "slug": "standard-chartered"
+	},
+	{
+	  "name": "Stanford MFB",
+	  "code": "090162",
+	  "slug": "stanford-mfb"
+	},
+	{
+	  "name": "Stellas Microfinance bank",
+	  "code": "090262",
+	  "slug": "stellas-microfinance-bank"
+	},
+	{
+	  "name": "Sterling Bank",
+	  "code": "000001",
+	  "slug": "sterling-bank"
+	},
+	{
+	  "code": "090305",
+	  "name": "Sulspap Microfinance Bank",
+	  "slug": "sulspap-microfinance-bank"
+	},
+	{
+	  "name": "TANGERINE MONEY",
+	  "code": "090426",
+	  "slug": "tangerine-money"
+	},
+	{
+	  "name": "TCF",
+	  "code": "090115",
+	  "slug": "tcf"
+	},
+	{
+	  "name": "TagPay",
+	  "code": "100023",
+	  "slug": "tagpay"
+	},
+	{
+	  "name": "Taj Bank",
+	  "code": "000026",
+	  "slug": "taj-bank"
+	},
+	{
+	  "code": "080002",
+	  "name": "Taj_Pinspay",
+	  "slug": "taj_pinspay"
+	},
+	{
+	  "code": "110007",
+	  "name": "Teamapt Limited",
+	  "slug": "teamapt-limited"
+	},
+	{
+	  "name": "TeasyMobile",
+	  "code": "100010",
+	  "slug": "teasymobile"
+	},
+	{
+	  "code": "090373",
+	  "name": "Think Finance Microfinance Bank",
+	  "slug": "think-finance-microfinance-bank"
+	},
+	{
+	  "name": "Titan Trust Bank",
+	  "code": "000025",
+	  "slug": "titan-trust-bank"
+	},
+	{
+	  "name": "Paystack-Titan",
+	  "code": "100039",
+	  "slug": "paystack-titan"
+	},
+	{
+	  "name": "Trident Microfinance Bank",
+	  "code": "090146",
+	  "slug": "trident-microfinance-bank"
+	},
+	{
+	  "code": "090327",
+	  "name": "Trust Microfinance Bank",
+	  "slug": "trust-microfinance-bank"
+	},
+	{
+	  "name": "Trustbond",
+	  "code": "090005",
+	  "slug": "trustbond"
+	},
+	{
+	  "code": "090276",
+	  "name": "Trustfund Microfinance Bank",
+	  "slug": "trustfund-microfinance-bank"
+	},
+	{
+	  "code": "090315",
+	  "name": "U & C Microfinance Bank",
+	  "slug": "u-&-c-microfinance-bank"
+	},
+	{
+	  "name": "UBA",
+	  "code": "000004",
+	  "slug": "uba"
+	},
+	{
+	  "code": "090331",
+	  "name": "UNAAB Microfinance Bank",
+	  "slug": "unaab-microfinance-bank"
+	},
+	{
+	  "name": "UNIBADAN MFB",
+	  "code": "090461",
+	  "slug": "unibadan-mfb"
+	},
+	{
+	  "name": "UNIILORIN MFB",
+	  "code": "090341",
+	  "slug": "uniilorin-mfb"
+	},
+	{
+	  "code": "090251",
+	  "name": "UNN MFB",
+	  "slug": "unn-mfb"
+	},
+	{
+	  "code": "090517",
+	  "name": "Uhuru Microfinance Bank",
+	  "slug": "uhuru-microfinance-bank"
+	},
+	{
+	  "code": "090338",
+	  "name": "UniUyo Microfinance Bank",
+	  "slug": "uniuyo-microfinance-bank"
+	},
+	{
+	  "name": "Uniben Microfinance bank",
+	  "code": "090266",
+	  "slug": "uniben-microfinance-bank"
+	},
+	{
+	  "name": "Unical MFB",
+	  "code": "090193",
+	  "slug": "unical-mfb"
+	},
+	{
+	  "code": "090464",
+	  "name": "Unimaid Microfinance Bank",
+	  "slug": "unimaid-microfinance-bank"
+	},
+	{
+	  "name": "Union Bank",
+	  "code": "000018",
+	  "slug": "union-bank"
+	},
+	{
+	  "name": "Unity Bank",
+	  "code": "000011",
+	  "slug": "unity-bank"
+	},
+	{
+	  "name": "VFD Microfinance Bank",
+	  "code": "999999",
+	  "slug": "vfd-microfinance-bank"
+	},
+	{
+	  "name": "VTNetworks",
+	  "code": "100012",
+	  "slug": "vtnetworks"
+	},
+	{
+	  "code": "110015",
+	  "name": "Vas2nets Limited",
+	  "slug": "vas2nets-limited"
+	},
+	{
+	  "code": "090474",
+	  "name": "Verdant Microfinance Bank",
+	  "slug": "verdant-microfinance-bank"
+	},
+	{
+	  "name": "Verite Microfinance Bank",
+	  "code": "090123",
+	  "slug": "verite-microfinance-bank"
+	},
+	{
+	  "name": "Virtue MFB",
+	  "code": "090150",
+	  "slug": "virtue-mfb"
+	},
+	{
+	  "name": "Visa Microfinance Bank",
+	  "code": "090139",
+	  "slug": "visa-microfinance-bank"
+	},
+	{
+	  "name": "WETLAND MFB",
+	  "code": "090120",
+	  "slug": "wetland-mfb"
+	},
+	{
+	  "name": "Wema",
+	  "code": "000017",
+	  "slug": "wema"
+	},
+	{
+	  "name": "XSLNCE Microfinance Bank",
+	  "code": "090124",
+	  "slug": "xslnce-microfinance-bank"
+	},
+	{
+	  "code": "090466",
+	  "name": "YCT Microfinance Bank",
+	  "slug": "yct-microfinance-bank"
+	},
+	{
+	  "name": "Yes MFB",
+	  "code": "090142",
+	  "slug": "yes-mfb"
+	},
+	{
+	  "code": "090252",
+	  "name": "Yobe Microfinance Bank",
+	  "slug": "yobe-microfinance-bank"
+	},
+	{
+	  "name": "Zenith Bank",
+	  "code": "000015",
+	  "slug": "zenith-bank"
+	},
+	{
+	  "code": "100034",
+	  "name": "Zenith Eazy Wallet",
+	  "slug": "zenith-eazy-wallet"
+	},
+	{
+	  "name": "ZenithMobile",
+	  "code": "100018",
+	  "slug": "zenithmobile"
+	},
+	{
+	  "code": "090504",
+	  "name": "Zikora Microfinance Bank",
+	  "slug": "zikora-microfinance-bank"
+	},
+	{
+	  "name": "Zinternet - KongaPay",
+	  "code": "100025",
+	  "slug": "zinternet-kongapay"
+	},
+	{
+	  "name": "e-BARCs MFB",
+	  "code": "090156",
+	  "slug": "e-barcs-mfb"
+	},
+	{
+	  "name": "eTranzact",
+	  "code": "100006",
+	  "slug": "etranzact"
+	}
+  ]
+  
