@@ -1,3045 +1,1917 @@
 [
 	{
-		"bankly": "110005",
-		"name": "3line Card Management Limited",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
-	},
-	{
-		"name": "9 Payment Service Bank",
-		"bankly": "120001",
-		"flutterwave": "",
-		"paystack": "120001",
-		"vfd": "120001",
-		"korapay": ""
-	},
-	{
-		"name": "AB Microfinance bank",
-		"bankly": "090270",
-		"flutterwave": "",
-		"paystack": "50870",
-		"vfd": "090270",
-		"korapay": ""
-	},
-	{
-		"name": "ABBEY MORTGAGE BANK",
-		"bankly": "070010",
-		"flutterwave": "",
-		"paystack": "801",
-		"vfd": "070010",
-		"korapay": ""
-	},
-	{
-		"name": "ABU Microfinance bank",
-		"bankly": "090197",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090197",
-		"korapay": ""
-	},
-	{
-		"name": "ACCION MFB",
-		"bankly": "090134",
-		"flutterwave": "",
-		"paystack": "602",
-		"vfd": "090134",
-		"korapay": ""
-	},
-	{
-		"name": "AG MORTGAGE BANK PLC",
-		"bankly": "100028",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100028",
-		"korapay": ""
-	},
-	{
-		"name": "AL-BARKAH MFB",
-		"bankly": "090133",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090133",
-		"korapay": ""
-	},
-	{
-		"name": "ALLWORKERS MFB",
-		"bankly": "090131",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090131",
-		"korapay": ""
-	},
-	{
-		"name":"AMEGY MICROFINANCE BANK",
-		"bankly":"090629",
-		"flutterwave":"",
-		"paystack":"",
-		"vfd":"090629",
-		"korapay":""
-	},
-	{
-		"name": "AMML MFB",
-		"bankly": "090116",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090116",
-		"korapay": ""
-	},
-	{
-		"name": "APEKS Microfinance Bank",
-		"bankly": "090143",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090143",
-		"korapay": ""
-	},
-	{
-		"name": "ASOSavings",
-		"bankly": "090001",
-		"flutterwave": "401",
-		"paystack": "401",
-		"vfd": "090001",
-		"korapay": ""
+	  "code": "110005",
+	  "name": "3line Card Management Limited",
+	  "slug": "3line-card-management-limited"
 	},
 	{
-		"name": "Above Only Microfinance bank",
-		"bankly": "090260",
-		"flutterwave": "",
-		"paystack": "51204",
-		"vfd": "090260",
-		"korapay": "090260"
+	  "name": "9 Payment Service Bank",
+	  "code": "120001",
+	  "slug": "9-payment-service-bank"
 	},
 	{
-		"name": "Abucoop Microfinance Bank",
-		"bankly": "090424",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090424",
-		"korapay": ""
+	  "name": "AB Microfinance bank",
+	  "code": "090270",
+	  "slug": "ab-microfinance-bank"
 	},
 	{
-		"bankly": "090202",
-		"name": "Accelerex Network Limited",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "ABBEY MORTGAGE BANK",
+	  "code": "070010",
+	  "slug": "abbey-mortgage-bank"
 	},
 	{
-		"name": "Access",
-		"bankly": "000014",
-		"flutterwave": "044",
-		"paystack": "044",
-		"vfd": "000014",
-		"korapay": ""
+	  "name": "ABU Microfinance bank",
+	  "code": "090197",
+	  "slug": "abu-microfinance-bank"
 	},
 	{
-		"name": "Access Yelo & Beta",
-		"bankly": "100052",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100052",
-		"korapay": ""
+	  "name": "ACCION MFB",
+	  "code": "090134",
+	  "slug": "accion-mfb"
 	},
 	{
-		"name": "Access(Diamond)",
-		"bankly": "000005",
-		"flutterwave": "063",
-		"paystack": "063",
-		"vfd": "000005",
-		"korapay": ""
+	  "name": "AG MORTGAGE BANK PLC",
+	  "code": "100028",
+	  "slug": "ag-mortgage-bank-plc"
 	},
 	{
-		"name": "AccessMobile",
-		"bankly": "100013",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100013",
-		"korapay": ""
+	  "name": "AL-BARKAH MFB",
+	  "code": "090133",
+	  "slug": "al-barkah-mfb"
 	},
 	{
-		"bankly": "090483",
-		"name": "Ada Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "ALLWORKERS MFB",
+	  "code": "090131",
+	  "slug": "allworkers-mfb"
 	},
 	{
-		"name": "Addosser MFBB",
-		"bankly": "090160",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090160",
-		"korapay": ""
+	  "name": "AMEGY MICROFINANCE BANK",
+	  "code": "090629",
+	  "slug": "amegy-microfinance-bank"
 	},
 	{
-		"name": "Adeyemi College Staff Microfinance bank",
-		"bankly": "090268",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090268",
-		"korapay": ""
+	  "name": "AMML MFB",
+	  "code": "090116",
+	  "slug": "amml-mfb"
 	},
 	{
-		"name": "Afekhafe Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "APEKS Microfinance Bank",
+	  "code": "090143",
+	  "slug": "apeks-microfinance-bank"
 	},
 	{
-		"name": "Alekun Microfinance bank",
-		"bankly": "090259",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090259",
-		"korapay": ""
+	  "name": "ASOSavings",
+	  "code": "090001",
+	  "slug": "asosavings"
 	},
 	{
-		"bankly": "090297",
-		"name": "Alert Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Above Only Microfinance bank",
+	  "code": "090260",
+	  "slug": "above-only-microfinance-bank"
 	},
 	{
-		"name": "Alhayat MFB",
-		"bankly": "090277",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090277",
-		"korapay": ""
+	  "name": "Abucoop Microfinance Bank",
+	  "code": "090424",
+	  "slug": "abucoop-microfinance-bank"
 	},
 	{
-		"name": "Alphakapital MFB",
-		"bankly": "090169",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090169",
-		"korapay": ""
+	  "code": "090202",
+	  "name": "Accelerex Network Limited",
+	  "slug": "accelerex-network-limited"
 	},
 	{
-		"bankly": "090489",
-		"name": "Alvana Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Access",
+	  "code": "000014",
+	  "slug": "access"
 	},
 	{
-		"bankly": "090394",
-		"name": "Amac Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Access Yelo & Beta",
+	  "code": "100052",
+	  "slug": "access-yelo-&-beta"
 	},
 	{
-		"bankly": "090645",
-		"name": "Amucha Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090645",
-		"korapay": ""
+	  "name": "Access(Diamond)",
+	  "code": "000005",
+	  "slug": "access(diamond)"
 	},
 	{
-		"name": "Amju MFB",
-		"bankly": "090180",
-		"flutterwave": "",
-		"paystack": "50926",
-		"vfd": "090180",
-		"korapay": ""
+	  "name": "AccessMobile",
+	  "code": "100013",
+	  "slug": "accessmobile"
 	},
 	{
-		"bankly": "090476",
-		"name": "Anchorage Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090483",
+	  "name": "Ada Microfinance Bank",
+	  "slug": "ada-microfinance-bank"
 	},
 	{
-		"bankly": "090469",
-		"name": "Aniocha Microfinance bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Addosser MFBB",
+	  "code": "090160",
+	  "slug": "addosser-mfbb"
 	},
 	{
-		"bankly": "090376",
-		"name": "Apple Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Adeyemi College Staff Microfinance bank",
+	  "code": "090268",
+	  "slug": "adeyemi-college-staff-microfinance-bank"
 	},
 	{
-		"name": "Arise MFB",
-		"bankly": "090282",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090282",
-		"korapay": ""
+	  "name": "Afekhafe Microfinance Bank",
+	  "slug": "afekhafe-microfinance-bank"
 	},
 	{
-		"bankly": "090287",
-		"name": "AssetMatrix Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Alekun Microfinance bank",
+	  "code": "090259",
+	  "slug": "alekun-microfinance-bank"
 	},
 	{
-		"bankly": "090473",
-		"name": "Assets Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090297",
+	  "name": "Alert Microfinance Bank",
+	  "slug": "alert-microfinance-bank"
 	},
 	{
-		"name": "Astrapolis MFB",
-		"bankly": "090172",
-		"flutterwave": "",
-		"paystack": "MFB50094",
-		"vfd": "090172",
-		"korapay": ""
+	  "name": "Alhayat MFB",
+	  "code": "090277",
+	  "slug": "alhayat-mfb"
 	},
 	{
-		"name": "Auchi Microfinance bank",
-		"bankly": "090264",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090264",
-		"korapay": ""
+	  "name": "Alphakapital MFB",
+	  "code": "090169",
+	  "slug": "alphakapital-mfb"
 	},
 	{
-		"name":"Bankly Microfinance Bank",
-		"bankly":"51341",
-		"flutterwave": "110002",
-		"paystack": "",
-		"vfd": "090529",
-		"korapay": ""
+	  "code": "090489",
+	  "name": "Alvana Microfinance Bank",
+	  "slug": "alvana-microfinance-bank"
 	},
 	{
-		"name": "BC Kash MFB",
-		"bankly": "090127",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090127",
-		"korapay": ""
+	  "code": "090394",
+	  "name": "Amac Microfinance Bank",
+	  "slug": "amac-microfinance-bank"
 	},
 	{
-		"bankly": "090336",
-		"name": "BIPC Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090645",
+	  "name": "Amucha Microfinance Bank",
+	  "slug": "amucha-microfinance-bank"
 	},
 	{
-		"name": "BLUEWHALES MFB",
-		"bankly": "090431",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090431",
-		"korapay": ""
+	  "name": "Amju MFB",
+	  "code": "090180",
+	  "slug": "amju-mfb"
 	},
 	{
-		"bankly": "090444",
-		"name": "BOI Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090476",
+	  "name": "Anchorage Microfinance Bank",
+	  "slug": "anchorage-microfinance-bank"
 	},
 	{
-		"name": "BONGHE MFB",
-		"bankly": "090319",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090319",
-		"korapay": ""
+	  "code": "090469",
+	  "name": "Aniocha Microfinance bank",
+	  "slug": "aniocha-microfinance-bank"
 	},
 	{
-		"name": "Baines Credit MFB",
-		"bankly": "090188",
-		"flutterwave": "",
-		"paystack": "51229",
-		"vfd": "090188",
-		"korapay": ""
+	  "code": "090376",
+	  "name": "Apple Microfinance Bank",
+	  "slug": "apple-microfinance-bank"
 	},
 	{
-		"bankly": "090181",
-		"name": "Balogun Fulani Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Arise MFB",
+	  "code": "090282",
+	  "slug": "arise-mfb"
 	},
 	{
-		"bankly": "090326",
-		"name": "Balogun Gambari Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090287",
+	  "name": "AssetMatrix Microfinance Bank",
+	  "slug": "assetmatrix-microfinance-bank"
 	},
 	{
-		"name": "Banex MFB",
-		"bankly": "090425",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090425",
-		"korapay": ""
+	  "code": "090473",
+	  "name": "Assets Microfinance Bank",
+	  "slug": "assets-microfinance-bank"
 	},
 	{
-		"bankly": "090581",
-		"name": "Banc Corp Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "50117",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Astrapolis MFB",
+	  "code": "090172",
+	  "slug": "astrapolis-mfb"
 	},
 	{
-		"name": "Boctrust Microfinance Bank",
-		"bankly": "090117",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090117",
-		"korapay": ""
+	  "name": "Auchi Microfinance bank",
+	  "code": "090264",
+	  "slug": "auchi-microfinance-bank"
 	},
 	{
-		"bankly": "090494",
-		"name": "Boji MFB",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Bankly Microfinance Bank",
+	  "code": "090529",
+	  "slug": "bankly-microfinance-bank"
 	},
 	{
-		"bankly": "090395",
-		"name": "Borgu Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "BC Kash MFB",
+	  "code": "090127",
+	  "slug": "bc-kash-mfb"
 	},
 	{
-		"name": "Bosak MFB",
-		"bankly": "090176",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090176",
-		"korapay": ""
+	  "code": "090336",
+	  "name": "BIPC Microfinance Bank",
+	  "slug": "bipc-microfinance-bank"
 	},
 	{
-		"name": "Bowen MFB",
-		"bankly": "090148",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090148",
-		"korapay": ""
+	  "name": "BLUEWHALES MFB",
+	  "code": "090431",
+	  "slug": "bluewhales-mfb"
 	},
 	{
-		"name": "Brent Mortgage Bank",
-		"bankly": "070015",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "070015",
-		"korapay": ""
+	  "code": "090444",
+	  "name": "BOI Microfinance Bank",
+	  "slug": "boi-microfinance-bank"
 	},
 	{
-		"name": "Brethren MFB",
-		"bankly": "090293",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090293",
-		"korapay": ""
+	  "name": "BONGHE MFB",
+	  "code": "090319",
+	  "slug": "bonghe-mfb"
 	},
 	{
-		"name": "Bridgeway MFB",
-		"bankly": "090363",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090363",
-		"korapay": ""
+	  "name": "Baines Credit MFB",
+	  "code": "090188",
+	  "slug": "baines-credit-mfb"
 	},
 	{
-		"bankly": "090308",
-		"name": "Brightway Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090181",
+	  "name": "Balogun Fulani Microfinance Bank",
+	  "slug": "balogun-fulani-microfinance-bank"
 	},
 	{
-		"bankly": "090406",
-		"name": "Business Support Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090326",
+	  "name": "Balogun Gambari Microfinance Bank",
+	  "slug": "balogun-gambari-microfinance-bank"
 	},
 	{
-		"name": "CAPSTONE MFB",
-		"bankly": "090445",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090445",
-		"korapay": ""
+	  "name": "Banex MFB",
+	  "code": "090425",
+	  "slug": "banex-mfb"
 	},
 	{
-		"name": "Carbon",
-		"bankly": "",
-		"flutterwave": "",
-		"paystack": "565",
-		"vfd": "100026",
-		"korapay": ""
+	  "code": "090581",
+	  "name": "Banc Corp Microfinance Bank",
+	  "slug": "banc-corp-microfinance-bank"
 	},
 	{
-		"name": "CEMCS MFB",
-		"bankly": "090154",
-		"flutterwave": "",
-		"paystack": "50823",
-		"vfd": "090154",
-		"korapay": ""
+	  "name": "Boctrust Microfinance Bank",
+	  "code": "090117",
+	  "slug": "boctrust-microfinance-bank"
 	},
 	{
-		"name": "CHERISH MFB",
-		"bankly": "090440",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090440",
-		"korapay": ""
+	  "code": "090494",
+	  "name": "Boji MFB",
+	  "slug": "boji-mfb"
 	},
 	{
-		"name": "CHIBUEZE MFB",
-		"bankly": "090416",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090416",
-		"korapay": ""
+	  "code": "090395",
+	  "name": "Borgu Microfinance Bank",
+	  "slug": "borgu-microfinance-bank"
 	},
 	{
-		"name": "CIT Microfinance Bank",
-		"bankly": "090144",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090144",
-		"korapay": ""
+	  "name": "Bosak MFB",
+	  "code": "090176",
+	  "slug": "bosak-mfb"
 	},
 	{
-		"name": "CONSUMER  MFB",
-		"bankly": "090130",
-		"flutterwave": "",
-		"paystack": "50910",
-		"vfd": "090130",
-		"korapay": ""
+	  "name": "Bowen MFB",
+	  "code": "090148",
+	  "slug": "bowen-mfb"
 	},
 	{
-		"name": "COOP Mortgage Bank",
-		"bankly": "070021",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "070021",
-		"korapay": ""
+	  "name": "Brent Mortgage Bank",
+	  "code": "070015",
+	  "slug": "brent-mortgage-bank"
 	},
 	{
-		"name": "CROSS RIVER MFB",
-		"bankly": "090429",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090429",
-		"korapay": ""
+	  "name": "Brethren MFB",
+	  "code": "090293",
+	  "slug": "brethren-mfb"
 	},
 	{
-		"name": "Crust Microfinance Bank",
-		"bankly": "090560",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090560",
-		"korapay": ""
+	  "name": "Bridgeway MFB",
+	  "code": "090363",
+	  "slug": "bridgeway-mfb"
 	},
 	{
-		"name": "CRUTECH MFB",
-		"bankly": "090414",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090414",
-		"korapay": ""
+	  "code": "090308",
+	  "name": "Brightway Microfinance Bank",
+	  "slug": "brightway-microfinance-bank"
 	},
 	{
-		"bankly": "090472",
-		"name": "Caretaker Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090406",
+	  "name": "Business Support Microfinance Bank",
+	  "slug": "business-support-microfinance-bank"
 	},
 	{
-		"bankly": "090360",
-		"name": "CashConnect Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "865",
-		"vfd": "",
-		"korapay": ""
+	  "name": "CAPSTONE MFB",
+	  "code": "090445",
+	  "slug": "capstone-mfb"
 	},
 	{
-		"name": "Cellulant",
-		"bankly": "100005",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100005",
-		"korapay": ""
+	  "name": "Carbon",
+	  "code": "100026",
+	  "slug": "carbon"
 	},
 	{
-		"name": "Chanelle MFB",
-		"bankly": "100005",
-		"flutterwave": "",
-		"paystack": "50171",
-		"vfd": "090397",
-		"korapay": ""
+	  "name": "CEMCS MFB",
+	  "code": "090154",
+	  "slug": "cemcs-mfb"
 	},
 	{
-		"name": "Changan RTS MFB",
-		"bankly": "090470",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090470",
-		"korapay": ""
+	  "name": "CHERISH MFB",
+	  "code": "090440",
+	  "slug": "cherish-mfb"
 	},
 	{
-		"bankly": "090523",
-		"name": "Chase Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "CHIBUEZE MFB",
+	  "code": "090416",
+	  "slug": "chibueze-mfb"
 	},
 	{
-		"name": "Chikum Microfinance Bank",
-		"bankly": "090141",
-		"flutterwave": "",
-		"paystack": "312",
-		"vfd": "090141",
-		"korapay": ""
+	  "name": "CIT Microfinance Bank",
+	  "code": "090144",
+	  "slug": "cit-microfinance-bank"
 	},
 	{
-		"bankly": "090490",
-		"name": "Chukwunenye MFB",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "CONSUMER  MFB",
+	  "code": "090130",
+	  "slug": "consumer-mfb"
 	},
 	{
-		"name": "CitiBank",
-		"bankly": "000009",
-		"flutterwave": "023",
-		"paystack": "023",
-		"vfd": "000009",
-		"korapay": ""
+	  "name": "COOP Mortgage Bank",
+	  "code": "070021",
+	  "slug": "coop-mortgage-bank"
 	},
 	{
-		"bankly": "090254",
-		"name": "Coalcamp Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "CROSS RIVER MFB",
+	  "code": "090429",
+	  "slug": "cross-river-mfb"
 	},
 	{
-		"bankly": "090374",
-		"name": "Coastline Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Crust Microfinance Bank",
+	  "code": "090560",
+	  "slug": "crust-microfinance-bank"
 	},
 	{
-		"name": "Contec Global",
-		"bankly": "100032",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100032",
-		"korapay": ""
+	  "name": "CRUTECH MFB",
+	  "code": "090414",
+	  "slug": "crutech-mfb"
 	},
 	{
-		"bankly": "090365",
-		"name": "Corestep Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "50204",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090472",
+	  "name": "Caretaker Microfinance Bank",
+	  "slug": "caretaker-microfinance-bank"
 	},
 	{
-		"name": "Coronation",
-		"bankly": "060001",
-		"flutterwave": "",
-		"paystack": "559",
-		"vfd": "060001",
-		"korapay": ""
+	  "code": "090360",
+	  "name": "CashConnect Microfinance Bank",
+	  "slug": "cashconnect-microfinance-bank"
 	},
 	{
-		"name": "Covenant MFB",
-		"bankly": "070006",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "070006",
-		"korapay": ""
+	  "name": "Cellulant",
+	  "code": "100005",
+	  "slug": "cellulant"
 	},
 	{
-		"name": "Credit Afrique MFB",
-		"bankly": "090159",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090159",
-		"korapay": ""
+	  "name": "Chanelle MFB",
+	  "code": "090397",
+	  "slug": "chanelle-mfb"
 	},
 	{
-		"bankly": "110017",
-		"name": "Crowdforce",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Changan RTS MFB",
+	  "code": "090470",
+	  "slug": "changan-rts-mfb"
 	},
 	{
-		"bankly": "110014",
-		"name": "Cyberspace Limited",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090523",
+	  "name": "Chase Microfinance Bank",
+	  "slug": "chase-microfinance-bank"
 	},
 	{
-		"bankly": "090391",
-		"name": "Davodani Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Chikum Microfinance Bank",
+	  "code": "090141",
+	  "slug": "chikum-microfinance-bank"
 	},
 	{
-		"name": "Daylight Microfinance Bank",
-		"bankly": "090167",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090167",
-		"korapay": ""
+	  "code": "090490",
+	  "name": "Chukwunenye MFB",
+	  "slug": "chukwunenye-mfb"
 	},
 	{
-		"bankly": "070023",
-		"name": "Delta Trust Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "CitiBank",
+	  "code": "000009",
+	  "slug": "citibank"
 	},
 	{
-		"bankly": "090389",
-		"name": "EK-Reliable Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090254",
+	  "name": "Coalcamp Microfinance Bank",
+	  "slug": "coalcamp-microfinance-bank"
 	},
 	{
-		"name": "EMPIRE Trust MFB",
-		"bankly": "090114",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090114",
-		"korapay": ""
+	  "code": "090374",
+	  "name": "Coastline Microfinance Bank",
+	  "slug": "coastline-microfinance-bank"
 	},
 	{
-		"bankly": "090294",
-		"name": "Eagle Flight Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Contec Global",
+	  "code": "100032",
+	  "slug": "contec-global"
 	},
 	{
-		"name": "Eartholeum",
-		"bankly": "100021",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100021",
-		"korapay": ""
+	  "code": "090365",
+	  "name": "Corestep Microfinance Bank",
+	  "slug": "corestep-microfinance-bank"
 	},
 	{
-		"bankly": "100030",
-		"name": "EcoMobile",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Coronation",
+	  "code": "060001",
+	  "slug": "coronation"
 	},
 	{
-		"name": "Ecobank",
-		"bankly": "000010",
-		"flutterwave": "050",
-		"paystack": "050",
-		"vfd": "000010",
-		"korapay": "050"
+	  "name": "Covenant MFB",
+	  "code": "070006",
+	  "slug": "covenant-mfb"
 	},
 	{
-		"name": "Ecobank Xpress Account",
-		"bankly": "100008",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100008",
-		"korapay": ""
+	  "name": "Credit Afrique MFB",
+	  "code": "090159",
+	  "slug": "credit-afrique-mfb"
 	},
 	{
-		"bankly": "090310",
-		"name": "EdFin Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "110017",
+	  "name": "Crowdforce",
+	  "slug": "crowdforce"
 	},
 	{
-		"name": "Ekondo MFB",
-		"bankly": "090097",
-		"flutterwave": "",
-		"paystack": "098",
-		"vfd": "090097",
-		"korapay": ""
+	  "code": "110014",
+	  "name": "Cyberspace Limited",
+	  "slug": "cyberspace-limited"
 	},
 	{
-		"name": "Emeralds MFB",
-		"bankly": "090273",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090273",
-		"korapay": ""
+	  "code": "090391",
+	  "name": "Davodani Microfinance Bank",
+	  "slug": "davodani-microfinance-bank"
 	},
 	{
-		"name": "Enterprise Bank",
-		"bankly": "000019",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "000019",
-		"korapay": ""
+	  "name": "Daylight Microfinance Bank",
+	  "code": "090167",
+	  "slug": "daylight-microfinance-bank"
 	},
 	{
-		"name": "Esan MFB",
-		"bankly": "090189",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090189",
-		"korapay": ""
+	  "code": "070023",
+	  "name": "Delta Trust Microfinance Bank",
+	  "slug": "delta-trust-microfinance-bank"
 	},
 	{
-		"name": "Eso-E Microfinance Bank",
-		"bankly": "090166",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090166",
-		"korapay": ""
+	  "code": "090389",
+	  "name": "EK-Reliable Microfinance Bank",
+	  "slug": "ek-reliable-microfinance-bank"
 	},
 	{
-		"bankly": "090304",
-		"name": "Evangel Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "EMPIRE Trust MFB",
+	  "code": "090114",
+	  "slug": "empire-trust-mfb"
 	},
 	{
-		"bankly": "090332",
-		"name": "Evergreen Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090294",
+	  "name": "Eagle Flight Microfinance Bank",
+	  "slug": "eagle-flight-microfinance-bank"
 	},
 	{
-		"name": "Eyowo",
-		"bankly": "090328",
-		"flutterwave": "090328",
-		"paystack": "50126",
-		"vfd": "090328",
-		"korapay": "090328"
+	  "name": "Eartholeum",
+	  "code": "100021",
+	  "slug": "eartholeum"
 	},
 	{
-		"name": "FAST MFB",
-		"bankly": "090179",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090179",
-		"korapay": ""
+	  "code": "100030",
+	  "name": "EcoMobile",
+	  "slug": "ecomobile"
 	},
 	{
-		"name": "Fairmoney Microfinance Bank",
-		"bankly": "090551",
-		"flutterwave": "",
-		"paystack": "51318",
-		"vfd": "090551",
-		"korapay": ""
+	  "name": "Ecobank",
+	  "code": "000010",
+	  "slug": "ecobank"
 	},
 	{
-		"name": "FBN Morgages Limited",
-		"bankly": "090107",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090107",
-		"korapay": ""
+	  "name": "Ecobank Xpress Account",
+	  "code": "100008",
+	  "slug": "ecobank-xpress-account"
 	},
 	{
-		"name": "FBNMobile",
-		"bankly": "100014",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100014",
-		"korapay": ""
+	  "code": "090310",
+	  "name": "EdFin Microfinance Bank",
+	  "slug": "edfin-microfinance-bank"
 	},
 	{
-		"name": "FBNQuest",
-		"bankly": "060002",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "060002",
-		"korapay": ""
+	  "name": "Ekondo MFB",
+	  "code": "090097",
+	  "slug": "ekondo-mfb"
 	},
 	{
-		"name": "FCMB",
-		"bankly": "000003",
-		"flutterwave": "214",
-		"paystack": "214",
-		"vfd": "000003",
-		"korapay": ""
+	  "name": "Emeralds MFB",
+	  "code": "090273",
+	  "slug": "emeralds-mfb"
 	},
 	{
-		"bankly": "090409",
-		"name": "FCMB BETA"
+	  "name": "Enterprise Bank",
+	  "code": "000019",
+	  "slug": "enterprise-bank"
 	},
 	{
-		"name": "FCMB MOBILE",
-		"bankly": "100031"
+	  "name": "Esan MFB",
+	  "code": "090189",
+	  "slug": "esan-mfb"
 	},
 	{
-		"bankly": "090290",
-		"name": "FCT Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Eso-E Microfinance Bank",
+	  "code": "090166",
+	  "slug": "eso-e-microfinance-bank"
 	},
 	{
-		"name": "FET",
-		"bankly": "100001",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100001",
-		"korapay": ""
+	  "code": "090304",
+	  "name": "Evangel Microfinance Bank",
+	  "slug": "evangel-microfinance-bank"
 	},
 	{
-		"name": "FFS Microfinance Bank",
-		"bankly": "090153",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090153",
-		"korapay": ""
+	  "code": "090332",
+	  "name": "Evergreen Microfinance Bank",
+	  "slug": "evergreen-microfinance-bank"
 	},
 	{
-		"bankly": "090507",
-		"name": "FIMS MFB",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Eyowo",
+	  "code": "090328",
+	  "slug": "eyowo"
 	},
 	{
-		"name": "FSDH",
-		"bankly": "400001",
-		"flutterwave": "400001",
-		"paystack": "501",
-		"vfd": "400001",
-		"korapay": ""
+	  "name": "FAST MFB",
+	  "code": "090179",
+	  "slug": "fast-mfb"
 	},
 	{
-		"name": "FUTMINNA MFB",
-		"bankly": "090438",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090438",
-		"korapay": ""
+	  "name": "Fairmoney Microfinance Bank",
+	  "code": "090551",
+	  "slug": "fairmoney-microfinance-bank"
 	},
 	{
-		"name": "FUTO MFB",
-		"bankly": "090158",
-		"flutterwave": "090158",
-		"paystack": "",
-		"vfd": "090158",
-		"korapay": ""
+	  "name": "FBN Morgages Limited",
+	  "code": "090107",
+	  "slug": "fbn-morgages-limited"
 	},
 	{
-		"name": "Fame MFB",
-		"bankly": "090330",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090330",
-		"korapay": ""
+	  "name": "FBNMobile",
+	  "code": "100014",
+	  "slug": "fbnmobile"
 	},
 	{
-		"bankly": "090298",
-		"name": "FedPoly Nasarawa Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "FBNQuest",
+	  "code": "060002",
+	  "slug": "fbnquest"
 	},
 	{
-		"bankly": "090398",
-		"name": "Federal Polytechnic Nekede Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "FCMB",
+	  "code": "000003",
+	  "slug": "fcmb"
 	},
 	{
-		"bankly": "090318",
-		"name": "Federal University Dutse Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090409",
+	  "name": "FCMB BETA",
+	  "slug": "fcmb-beta"
 	},
 	{
-		"bankly": "090482",
-		"name": "Fedeth Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "FCMB MOBILE",
+	  "code": "100031",
+	  "slug": "fcmb-mobile"
 	},
 	{
-		"name": "FidFund MFB",
-		"bankly": "090126",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090126",
-		"korapay": ""
+	  "code": "090290",
+	  "name": "FCT Microfinance Bank",
+	  "slug": "fct-microfinance-bank"
 	},
 	{
-		"name": "Fidelity",
-		"bankly": "000007",
-		"flutterwave": "070",
-		"paystack": "070",
-		"vfd": "000007",
-		"korapay": ""
+	  "name": "FET",
+	  "code": "100001",
+	  "slug": "fet"
 	},
 	{
-		"name": "Fidelity Mobile",
-		"bankly": "100019",
-		"flutterwave": "100019",
-		"paystack": "",
-		"vfd": "100019",
-		"korapay": ""
+	  "name": "FFS Microfinance Bank",
+	  "code": "090153",
+	  "slug": "ffs-microfinance-bank"
 	},
 	{
-		"name": "FinaTrust Microfinance Bank",
-		"bankly": "090111",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090111",
-		"korapay": ""
+	  "code": "090507",
+	  "name": "FIMS MFB",
+	  "slug": "fims-mfb"
 	},
 	{
-		"bankly": "090366",
-		"name": "Firmus Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "51314",
-		"vfd": "",
-		"korapay": ""
+	  "name": "FSDH",
+	  "code": "400001",
+	  "slug": "fsdh"
 	},
 	{
-		"bankly": "110004",
-		"name": "First Apple Limited",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "FUTMINNA MFB",
+	  "code": "090438",
+	  "slug": "futminna-mfb"
 	},
 	{
-		"name": "First Bank",
-		"bankly": "000016",
-		"flutterwave": "011",
-		"paystack": "011",
-		"vfd": "000016",
-		"korapay": ""
+	  "name": "FUTO MFB",
+	  "code": "090158",
+	  "slug": "futo-mfb"
 	},
 	{
-		"name": "First Generation Mortgage Bank",
-		"bankly": "070014",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "070014",
-		"korapay": ""
+	  "name": "Fame MFB",
+	  "code": "090330",
+	  "slug": "fame-mfb"
 	},
 	{
-		"name": "First Multiple MFB",
-		"bankly": "090163",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090163",
-		"korapay": ""
+	  "code": "090298",
+	  "name": "FedPoly Nasarawa Microfinance Bank",
+	  "slug": "fedpoly-nasarawa-microfinance-bank"
 	},
 	{
-		"bankly": "090285",
-		"name": "First Option Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090398",
+	  "name": "Federal Polytechnic Nekede Microfinance Bank",
+	  "slug": "federal-polytechnic-nekede-microfinance-bank"
 	},
 	{
-		"name": "First Royal Microfinance Bank",
-		"bankly": "090164",
-		"flutterwave": "090164",
-		"paystack": "",
-		"vfd": "090164",
-		"korapay": ""
+	  "code": "090318",
+	  "name": "Federal University Dutse Microfinance Bank",
+	  "slug": "federal-university-dutse-microfinance-bank"
 	},
 	{
-		"bankly": "110002",
-		"name": "Flutterwave Technology Solutions Limited",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090482",
+	  "name": "Fedeth Microfinance Bank",
+	  "slug": "fedeth-microfinance-bank"
 	},
 	{
-		"bankly": "090521",
-		"name": "Foresight Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "FidFund MFB",
+	  "code": "090126",
+	  "slug": "fidfund-mfb"
 	},
 	{
-		"name": "Fortis Microfinance Bank",
-		"bankly": "070002",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "070002",
-		"korapay": ""
+	  "name": "Fidelity",
+	  "code": "000007",
+	  "slug": "fidelity"
 	},
 	{
-		"name": "FortisMobile",
-		"bankly": "100016",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100016",
-		"korapay": ""
+	  "name": "Fidelity Mobile",
+	  "code": "100019",
+	  "slug": "fidelity-mobile"
 	},
 	{
-		"name": "Full range MFB",
-		"bankly": "090145",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090145",
-		"korapay": ""
+	  "name": "FinaTrust Microfinance Bank",
+	  "code": "090111",
+	  "slug": "finatrust-microfinance-bank"
 	},
 	{
-		"name": "GATEWAY MORTGAGE BANK",
-		"bankly": "070009",
-		"flutterwave": "",
-		"paystack": "812",
-		"vfd": "070009",
-		"korapay": ""
+	  "code": "090366",
+	  "name": "Firmus Microfinance Bank",
+	  "slug": "firmus-microfinance-bank"
 	},
 	{
-		"name": "GIGINYA MFB",
-		"bankly": "090411",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090411",
-		"korapay": ""
+	  "code": "110004",
+	  "name": "First Apple Limited",
+	  "slug": "first-apple-limited"
 	},
 	{
-		"name": "GIWA MICROFINANCE BANK",
-		"bankly": "090441",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090441",
-		"korapay": ""
+	  "name": "First Bank",
+	  "code": "000016",
+	  "slug": "first-bank"
 	},
 	{
-		"name": "GLOBUS Bank",
-		"bankly": "000027",
-		"flutterwave": "103",
-		"paystack": "00103",
-		"vfd": "000027",
-		"korapay": "103"
+	  "name": "First Generation Mortgage Bank",
+	  "code": "070014",
+	  "slug": "first-generation-mortgage-bank"
 	},
 	{
-		"bankly": "090408",
-		"name": "GMB Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "First Multiple MFB",
+	  "code": "090163",
+	  "slug": "first-multiple-mfb"
 	},
 	{
-		"name": "GoMoney",
-		"bankly": "100022",
-		"flutterwave": "",
-		"paystack": "100022",
-		"vfd": "100022",
-		"korapay": ""
+	  "code": "090285",
+	  "name": "First Option Microfinance Bank",
+	  "slug": "first-option-microfinance-bank"
 	},
 	{
-		"name": "GOWANS MFB",
-		"bankly": "090122",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090122",
-		"korapay": ""
+	  "name": "First Royal Microfinance Bank",
+	  "code": "090164",
+	  "slug": "first-royal-microfinance-bank"
 	},
 	{
-		"name": "GREENWICH Merchant Bank",
-		"bankly": "",
-		"flutterwave": "",
-		"paystack": "562",
-		"vfd": "060004",
-		"korapay": ""
+	  "code": "110002",
+	  "name": "Flutterwave Technology Solutions Limited",
+	  "slug": "flutterwave-technology-solutions-limited"
 	},
 	{
-		"name": "GTBank",
-		"bankly": "000013",
-		"flutterwave": "058",
-		"paystack": "058",
-		"vfd": "000013",
-		"korapay": ""
+	  "code": "090521",
+	  "name": "Foresight Microfinance Bank",
+	  "slug": "foresight-microfinance-bank"
 	},
 	{
-		"bankly": "090385",
-		"name": "GTI Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Fortis Microfinance Bank",
+	  "code": "070002",
+	  "slug": "fortis-microfinance-bank"
 	},
 	{
-		"name": "GTMobile",
-		"bankly": "100009",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100009",
-		"korapay": ""
+	  "name": "FortisMobile",
+	  "code": "100016",
+	  "slug": "fortismobile"
 	},
 	{
-		"name": "Gashua Microfinance Bank",
-		"bankly": "090168",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090168",
-		"korapay": ""
+	  "name": "Full range MFB",
+	  "code": "090145",
+	  "slug": "full-range-mfb"
 	},
 	{
-		"bankly": "090475",
-		"name": "Giant Stride Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "GATEWAY MORTGAGE BANK",
+	  "code": "070009",
+	  "slug": "gateway-mortgage-bank"
 	},
 	{
-		"bankly": "090186",
-		"name": "Girei Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "GIGINYA MFB",
+	  "code": "090411",
+	  "slug": "giginya-mfb"
 	},
 	{
-		"name": "Glory MFB ",
-		"bankly": "090278",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090278",
-		"korapay": ""
+	  "name": "GIWA MICROFINANCE BANK",
+	  "code": "090441",
+	  "slug": "giwa-microfinance-bank"
 	},
 	{
-		"bankly": "090467",
-		"name": "Good Neigbours Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "GLOBUS Bank",
+	  "code": "000027",
+	  "slug": "globus-bank"
 	},
 	{
-		"bankly": "090495",
-		"name": "Goodnews Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "50739",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090408",
+	  "name": "GMB Microfinance Bank",
+	  "slug": "gmb-microfinance-bank"
 	},
 	{
-		"name": "GreenBank MFB",
-		"bankly": "090178",
-		"flutterwave": "",
-		"paystack": "562",
-		"vfd": "090178",
-		"korapay": ""
+	  "name": "GoMoney",
+	  "code": "100022",
+	  "slug": "gomoney"
 	},
 	{
-		"name": "Greenville Microfinance bank",
-		"bankly": "090269",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090269",
-		"korapay": ""
+	  "name": "GOWANS MFB",
+	  "code": "090122",
+	  "slug": "gowans-mfb"
 	},
 	{
-		"name": "Grooming Microfinance bank",
-		"bankly": "090195",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090195",
-		"korapay": ""
+	  "name": "GREENWICH Merchant Bank",
+	  "code": "060004",
+	  "slug": "greenwich-merchant-bank"
 	},
 	{
-		"name": "HASAL MFB",
-		"bankly": "090121",
-		"flutterwave": "",
-		"paystack": "50383",
-		"vfd": "090121",
-		"korapay": ""
+	  "name": "GTBank",
+	  "code": "000013",
+	  "slug": "gtbank"
 	},
 	{
-		"name": "HIGHLAND MFB",
-		"bankly": "090418",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090418",
-		"korapay": ""
+	  "code": "090385",
+	  "name": "GTI Microfinance Bank",
+	  "slug": "gti-microfinance-bank"
 	},
 	{
-		"bankly": "070024",
-		"name": "HOMEBASE MORTGAGE BANK",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "GTMobile",
+	  "code": "100009",
+	  "slug": "gtmobile"
 	},
 	{
-		"name": "Hackman Microfinance Bank",
-		"bankly": "090147",
-		"flutterwave": "",
-		"paystack": "51251",
-		"vfd": "090147",
-		"korapay": ""
+	  "name": "Gashua Microfinance Bank",
+	  "code": "090168",
+	  "slug": "gashua-microfinance-bank"
 	},
 	{
-		"name": "Haggai Mortgage Bank",
-		"bankly": "070017",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "070017",
-		"korapay": ""
+	  "code": "090475",
+	  "name": "Giant Stride Microfinance Bank",
+	  "slug": "giant-stride-microfinance-bank"
 	},
 	{
-		"name": "Hedonmark",
-		"bankly": "100017",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100017",
-		"korapay": ""
+	  "code": "090186",
+	  "name": "Girei Microfinance Bank",
+	  "slug": "girei-microfinance-bank"
 	},
 	{
-		"name": "Heritage",
-		"bankly": "000020",
-		"flutterwave": "030",
-		"paystack": "030",
-		"vfd": "000020",
-		"korapay": ""
+	  "name": "Glory MFB ",
+	  "code": "090278",
+	  "slug": "glory-mfb-"
 	},
 	{
-		"name": "HighStreet MFB",
-		"bankly": "090175",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090175",
-		"korapay": ""
+	  "code": "090467",
+	  "name": "Good Neigbours Microfinance Bank",
+	  "slug": "good-neigbours-microfinance-bank"
 	},
 	{
-		"name": "Hope PSB",
-		"bankly": "120002",
-		"flutterwave": "",
-		"paystack": "120002",
-		"vfd": "120002",
-		"korapay": ""
+	  "code": "090495",
+	  "name": "Goodnews Microfinance Bank",
+	  "slug": "goodnews-microfinance-bank"
 	},
 	{
-		"name": "IBILE Microfinance Bank",
-		"bankly": "090118",
-		"flutterwave": "090118",
-		"paystack": "51244",
-		"vfd": "090118",
-		"korapay": ""
+	  "name": "GreenBank MFB",
+	  "code": "090178",
+	  "slug": "greenbank-mfb"
 	},
 	{
-		"bankly": "090520",
-		"name": "IC Global Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Greenville Microfinance bank",
+	  "code": "090269",
+	  "slug": "greenville-microfinance-bank"
 	},
 	{
-		"name": "ILORIN MFB",
-		"bankly": "090350",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090350",
-		"korapay": ""
+	  "name": "Grooming Microfinance bank",
+	  "code": "090195",
+	  "slug": "grooming-microfinance-bank"
 	},
 	{
-		"name": "IRL Microfinance Bank",
-		"bankly": "090149",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090149",
-		"korapay": ""
+	  "name": "HASAL MFB",
+	  "code": "090121",
+	  "slug": "hasal-mfb"
 	},
 	{
-		"bankly": "090519",
-		"name": "Iboma Fadama Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "HIGHLAND MFB",
+	  "code": "090418",
+	  "slug": "highland-mfb"
 	},
 	{
-		"bankly": "090324",
-		"name": "Ikenne Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "070024",
+	  "name": "HOMEBASE MORTGAGE BANK",
+	  "slug": "homebase-mortgage-bank"
 	},
 	{
-		"name": "Ikire MFB",
-		"bankly": "090279",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090279",
-		"korapay": ""
+	  "name": "Hackman Microfinance Bank",
+	  "code": "090147",
+	  "slug": "hackman-microfinance-bank"
 	},
 	{
-		"bankly": "090370",
-		"name": "Ilisan Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Haggai Mortgage Bank",
+	  "code": "070017",
+	  "slug": "haggai-mortgage-bank"
 	},
 	{
-		"name": "Imo Microfinance bank",
-		"bankly": "090258",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090258",
-		"korapay": ""
+	  "name": "Hedonmark",
+	  "code": "100017",
+	  "slug": "hedonmark"
 	},
 	{
-		"name": "Imperial Homes Mortgage Bank",
-		"bankly": "100024",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100024",
-		"korapay": ""
+	  "name": "Heritage",
+	  "code": "000020",
+	  "slug": "heritage"
 	},
 	{
-		"name": "Infinity MFB",
-		"bankly": "090157",
-		"flutterwave": "",
-		"paystack": "50457",
-		"vfd": "090157",
-		"korapay": "090157"
+	  "name": "HighStreet MFB",
+	  "code": "090175",
+	  "slug": "highstreet-mfb"
 	},
 	{
-		"name": "Infinity trust  Mortgage Bank",
-		"bankly": "070016",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "070016",
-		"korapay": ""
+	  "name": "Hope PSB",
+	  "code": "120002",
+	  "slug": "hope-psb"
 	},
 	{
-		"name": "Innovectives Kesh",
-		"bankly": "100029",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100029",
-		"korapay": ""
+	  "name": "IBILE Microfinance Bank",
+	  "code": "090118",
+	  "slug": "ibile-microfinance-bank"
 	},
 	{
-		"name": "Insight MFB",
-		"bankly": "090434",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090434",
-		"korapay": ""
+	  "code": "090520",
+	  "name": "IC Global Microfinance Bank",
+	  "slug": "ic-global-microfinance-bank"
 	},
 	{
-		"name": "Intellifin",
-		"bankly": "100027",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100027",
-		"korapay": ""
+	  "name": "ILORIN MFB",
+	  "code": "090350",
+	  "slug": "ilorin-mfb"
 	},
 	{
-		"bankly": "090386",
-		"name": "Interland Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "IRL Microfinance Bank",
+	  "code": "090149",
+	  "slug": "irl-microfinance-bank"
 	},
 	{
-		"bankly": "110003",
-		"name": "Interswitch Limited",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090519",
+	  "name": "Iboma Fadama Microfinance Bank",
+	  "slug": "iboma-fadama-microfinance-bank"
 	},
 	{
-		"bankly": "090377",
-		"name": "Isaleoyo Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090324",
+	  "name": "Ikenne Microfinance Bank",
+	  "slug": "ikenne-microfinance-bank"
 	},
 	{
-		"name": "Izon Microfinance Bank",
-		"bankly": "090421",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090421",
-		"korapay": ""
+	  "name": "Ikire MFB",
+	  "code": "090279",
+	  "slug": "ikire-mfb"
 	},
 	{
-		"name": "JAIZ",
-		"bankly": "000006",
-		"flutterwave": "301",
-		"paystack": "301",
-		"vfd": "000006",
-		"korapay": ""
+	  "code": "090370",
+	  "name": "Ilisan Microfinance Bank",
+	  "slug": "ilisan-microfinance-bank"
 	},
 	{
-		"bankly": "090352",
-		"name": "Jessefield Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Imo Microfinance bank",
+	  "code": "090258",
+	  "slug": "imo-microfinance-bank"
 	},
 	{
-		"name": "JubileeLife",
-		"bankly": "090003",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090003",
-		"korapay": ""
+	  "name": "Imperial Homes Mortgage Bank",
+	  "code": "100024",
+	  "slug": "imperial-homes-mortgage-bank"
 	},
 	{
-		"name": "KCMB MFB",
-		"bankly": "090191",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090191",
-		"korapay": ""
+	  "name": "Infinity MFB",
+	  "code": "090157",
+	  "slug": "infinity-mfb"
 	},
 	{
-		"name": "KREDI MONEY MFB",
-		"bankly": "090380",
-		"flutterwave": "",
-		"paystack": "50200",
-		"vfd": "090380",
-		"korapay": ""
+	  "name": "Infinity trust  Mortgage Bank",
+	  "code": "070016",
+	  "slug": "infinity-trust-mortgage-bank"
 	},
 	{
-		"name": "KUDA MFB",
-		"bankly": "090267",
-		"flutterwave": "50211",
-		"paystack": "50211",
-		"vfd": "090267",
-		"korapay": ""
+	  "name": "Innovectives Kesh",
+	  "code": "100029",
+	  "slug": "innovectives-kesh"
 	},
 	{
-		"name": "KWASU MFB",
-		"bankly": "090450",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090450",
-		"korapay": ""
+	  "name": "Insight MFB",
+	  "code": "090434",
+	  "slug": "insight-mfb"
 	},
 	{
-		"bankly": "090320",
-		"name": "KadPoly Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "50502",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Intellifin",
+	  "code": "100027",
+	  "slug": "intellifin"
 	},
 	{
-		"name": "Kegow",
-		"bankly": "100015",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100015",
-		"korapay": ""
+	  "code": "090386",
+	  "name": "Interland Microfinance Bank",
+	  "slug": "interland-microfinance-bank"
 	},
 	{
-		"bankly": "100036",
-		"name": "Kegow (Chamsmobile)"
+	  "code": "110003",
+	  "name": "Interswitch Limited",
+	  "slug": "interswitch-limited"
 	},
 	{
-		"name": "Keystone",
-		"bankly": "000002",
-		"flutterwave": "082",
-		"paystack": "082",
-		"vfd": "000002",
-		"korapay": ""
+	  "code": "090377",
+	  "name": "Isaleoyo Microfinance Bank",
+	  "slug": "isaleoyo-microfinance-bank"
 	},
 	{
-		"bankly": "090299",
-		"name": "Kontagora Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Izon Microfinance Bank",
+	  "code": "090421",
+	  "slug": "izon-microfinance-bank"
 	},
 	{
-		"name": "LANDGOLD MFB",
-		"bankly": "090422",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090422",
-		"korapay": ""
+	  "name": "JAIZ",
+	  "code": "000006",
+	  "slug": "jaiz"
 	},
 	{
-		"name": "LBIC Mortgage Bank",
-		"bankly": "070012",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "070012",
-		"korapay": ""
+	  "code": "090352",
+	  "name": "Jessefield Microfinance Bank",
+	  "slug": "jessefield-microfinance-bank"
 	},
 	{
-		"name": "LETSHEGO MFB",
-		"bankly": "090420",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090420",
-		"korapay": ""
+	  "name": "JubileeLife",
+	  "code": "090003",
+	  "slug": "jubileelife"
 	},
 	{
-		"name": "LINKS MFB",
-		"bankly": "090435",
-		"flutterwave": "",
-		"paystack": "50549",
-		"vfd": "090435",
-		"korapay": ""
+	  "name": "KCMB MFB",
+	  "code": "090191",
+	  "slug": "kcmb-mfb"
 	},
 	{
-		"name": "LOTUS BANK",
-		"bankly": "000029",
-		"flutterwave": "",
-		"paystack": "303",
-		"vfd": "000029",
-		"korapay": ""
+	  "name": "KREDI MONEY MFB",
+	  "code": "090380",
+	  "slug": "kredi-money-mfb"
 	},
 	{
-		"name": "Lafayette Microfinance Bank",
-		"bankly": "090155",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090155",
-		"korapay": ""
+	  "name": "KUDA MFB",
+	  "code": "090267",
+	  "slug": "kuda-mfb"
 	},
 	{
-		"name": "Lapo MFB",
-		"bankly": "090177",
-		"flutterwave": "090177",
-		"paystack": "",
-		"vfd": "090177",
-		"korapay": ""
+	  "name": "KWASU MFB",
+	  "code": "090450",
+	  "slug": "kwasu-mfb"
 	},
 	{
-		"name": "Lavender Microfinance bank",
-		"bankly": "090271",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090271",
-		"korapay": ""
+	  "code": "090320",
+	  "name": "KadPoly Microfinance Bank",
+	  "slug": "kadpoly-microfinance-bank"
 	},
 	{
-		"bankly": "090372",
-		"name": "Legend Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Kegow",
+	  "code": "100015",
+	  "slug": "kegow"
 	},
 	{
-		"bankly": "090477",
-		"name": "Light MFB"
+	  "code": "100036",
+	  "name": "Kegow (Chamsmobile)",
+	  "slug": "kegow-(chamsmobile)"
 	},
 	{
-		"name": "Lovonus Microfinance bank",
-		"bankly": "090265",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090265",
-		"korapay": ""
+	  "name": "Keystone",
+	  "code": "000002",
+	  "slug": "keystone"
 	},
 	{
-		"bankly": "100035",
-		"name": "M36",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090299",
+	  "name": "Kontagora Microfinance Bank",
+	  "slug": "kontagora-microfinance-bank"
 	},
 	{
-		"name": "MAUTECH MFB",
-		"bankly": "090423",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090423",
-		"korapay": ""
+	  "name": "LANDGOLD MFB",
+	  "code": "090422",
+	  "slug": "landgold-mfb"
 	},
 	{
-		"name": "MINT-FINEX MFB",
-		"bankly": "090281",
-		"flutterwave": "",
-		"paystack": "50304",
-		"vfd": "090281",
-		"korapay": ""
+	  "name": "LBIC Mortgage Bank",
+	  "code": "070012",
+	  "slug": "lbic-mortgage-bank"
 	},
 	{
-		"name": "MONEYTRUST MFB",
-		"bankly": "090129",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090129",
-		"korapay": ""
+	  "name": "LETSHEGO MFB",
+	  "code": "090420",
+	  "slug": "letshego-mfb"
 	},
 	{
-		"bankly": "090323",
-		"name": "Mainland Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "LINKS MFB",
+	  "code": "090435",
+	  "slug": "links-mfb"
 	},
 	{
-		"name": "Mainstreet MFB",
-		"bankly": "090171",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090171",
-		"korapay": ""
+	  "name": "LOTUS BANK",
+	  "code": "000029",
+	  "slug": "lotus-bank"
 	},
 	{
-		"bankly": "090465",
-		"name": "Maintrust Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Lafayette Microfinance Bank",
+	  "code": "090155",
+	  "slug": "lafayette-microfinance-bank"
 	},
 	{
-		"name": "Malachy MFB",
-		"bankly": "090174",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090174",
-		"korapay": ""
+	  "name": "Lapo MFB",
+	  "code": "090177",
+	  "slug": "lapo-mfb"
 	},
 	{
-		"bankly": "090410",
-		"name": "Maritime Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Lavender Microfinance bank",
+	  "code": "090271",
+	  "slug": "lavender-microfinance-bank"
 	},
 	{
-		"bankly": "090321",
-		"name": "MayFair Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "50563",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090372",
+	  "name": "Legend Microfinance Bank",
+	  "slug": "legend-microfinance-bank"
 	},
 	{
-		"bankly": "070019",
-		"name": "MayFresh Mortgage Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090477",
+	  "name": "Light MFB",
+	  "slug": "light-mfb"
 	},
 	{
-		"name": "Megapraise Microfinance Bank",
-		"bankly": "090280",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090280",
-		"korapay": ""
+	  "name": "Lovonus Microfinance bank",
+	  "code": "090265",
+	  "slug": "lovonus-microfinance-bank"
 	},
 	{
-		"name": "Memphis MFB",
-		"bankly": "090432",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090432",
-		"korapay": ""
+	  "code": "100035",
+	  "name": "M36",
+	  "slug": "m36"
 	},
 	{
-		"name": "Meridian MFB",
-		"bankly": "090275",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090275",
-		"korapay": ""
+	  "name": "MAUTECH MFB",
+	  "code": "090423",
+	  "slug": "mautech-mfb"
 	},
 	{
-		"name": "Microcred Microfinance Bank",
-		"bankly": "090136",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090136",
-		"korapay": ""
+	  "name": "MINT-FINEX MFB",
+	  "code": "090281",
+	  "slug": "mint-finex-mfb"
 	},
 	{
-		"bankly": "090192",
-		"name": "Midland Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "MONEYTRUST MFB",
+	  "code": "090129",
+	  "slug": "moneytrust-mfb"
 	},
 	{
-		"name": "Mkudi",
-		"bankly": "100011",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100011",
-		"korapay": ""
+	  "code": "090323",
+	  "name": "Mainland Microfinance Bank",
+	  "slug": "mainland-microfinance-bank"
 	},
 	{
-		"bankly": "120003",
-		"name": "MoMo PSB",
-		"flutterwave": "",
-		"paystack": "120003",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Mainstreet MFB",
+	  "code": "090171",
+	  "slug": "mainstreet-mfb"
 	},
 	{
-		"bankly": "090362",
-		"name": "Molusi Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090465",
+	  "name": "Maintrust Microfinance Bank",
+	  "slug": "maintrust-microfinance-bank"
 	},
 	{
-		"name": "MoneyBox",
-		"bankly": "100020",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100020",
-		"korapay": ""
+	  "name": "Malachy MFB",
+	  "code": "090174",
+	  "slug": "malachy-mfb"
 	},
 	{
-		"bankly": "090448",
-		"name": "Moyofade Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090410",
+	  "name": "Maritime Microfinance Bank",
+	  "slug": "maritime-microfinance-bank"
 	},
 	{
-		"name": "Mutual Benefits MFB",
-		"bankly": "090190",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090190",
-		"korapay": ""
+	  "code": "090321",
+	  "name": "MayFair Microfinance Bank",
+	  "slug": "mayfair-microfinance-bank"
 	},
 	{
-		"name": "Mutual Trust Microfinance Bank",
-		"bankly": "090151",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090151",
-		"korapay": ""
+	  "code": "070019",
+	  "name": "MayFresh Mortgage Bank",
+	  "slug": "mayfresh-mortgage-bank"
 	},
 	{
-		"name": "NICE MFB",
-		"bankly": "090459",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090459",
-		"korapay": ""
+	  "name": "Megapraise Microfinance Bank",
+	  "code": "090280",
+	  "slug": "megapraise-microfinance-bank"
 	},
 	{
-		"name": "NIRSAL National microfinance bank",
-		"bankly": "090194",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090194",
-		"korapay": ""
+	  "name": "Memphis MFB",
+	  "code": "090432",
+	  "slug": "memphis-mfb"
 	},
 	{
-		"name": "NOVA MB",
-		"bankly": "060003",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "060003",
-		"korapay": ""
+	  "name": "Meridian MFB",
+	  "code": "090275",
+	  "slug": "meridian-mfb"
 	},
 	{
-		"name": "NPF MicroFinance Bank",
-		"bankly": "070001",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "070001",
-		"korapay": ""
+	  "name": "Microcred Microfinance Bank",
+	  "code": "090136",
+	  "slug": "microcred-microfinance-bank"
 	},
 	{
-		"name": "Nargata MFB",
-		"bankly": "090152",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090152",
-		"korapay": ""
+	  "code": "090192",
+	  "name": "Midland Microfinance Bank",
+	  "slug": "midland-microfinance-bank"
 	},
 	{
-		"name": "Navy Microfinance bank",
-		"bankly": "090263",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090263",
-		"korapay": ""
+	  "name": "Mkudi",
+	  "code": "100011",
+	  "slug": "mkudi"
 	},
 	{
-		"name": "Ndiorah MFB",
-		"bankly": "090128",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090128",
-		"korapay": ""
+	  "code": "120003",
+	  "name": "MoMo PSB",
+	  "slug": "momo-psb"
 	},
 	{
-		"bankly": "090329",
-		"name": "Neptune Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090362",
+	  "name": "Molusi Microfinance Bank",
+	  "slug": "molusi-microfinance-bank"
 	},
 	{
-		"bankly": "090378",
-		"name": "New Golden Pastures Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "MoneyBox",
+	  "code": "100020",
+	  "slug": "moneybox"
 	},
 	{
-		"name": "New Prudential Bank",
-		"bankly": "090108",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090108",
-		"korapay": ""
+	  "code": "090448",
+	  "name": "Moyofade Microfinance Bank",
+	  "slug": "moyofade-microfinance-bank"
 	},
 	{
-		"name": "Newdawn Microfinance bank",
-		"bankly": "090205",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090205",
-		"korapay": ""
+	  "name": "Mutual Benefits MFB",
+	  "code": "090190",
+	  "slug": "mutual-benefits-mfb"
 	},
 	{
-		"bankly": "090505",
-		"name": "Nigerian Prisons Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Mutual Trust Microfinance Bank",
+	  "code": "090151",
+	  "slug": "mutual-trust-microfinance-bank"
 	},
 	{
-		"bankly": "090283",
-		"name": "Nnew Women Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "NICE MFB",
+	  "code": "090459",
+	  "slug": "nice-mfb"
 	},
 	{
-		"bankly": "090491",
-		"name": "Nsuk MFB",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "NIRSAL National microfinance bank",
+	  "code": "090194",
+	  "slug": "nirsal-national-microfinance-bank"
 	},
 	{
-		"bankly": "090364",
-		"name": "Nuture Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "NOVA MB",
+	  "code": "060003",
+	  "slug": "nova-mb"
 	},
 	{
-		"bankly": "090399",
-		"name": "Nwannegadi Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "NPF MicroFinance Bank",
+	  "code": "070001",
+	  "slug": "npf-microfinance-bank"
 	},
 	{
-		"name": "OHAFIA MFB",
-		"bankly": "090119",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090119",
-		"korapay": ""
+	  "name": "Nargata MFB",
+	  "code": "090152",
+	  "slug": "nargata-mfb"
 	},
 	{
-		"bankly": "090468",
-		"name": "OLOFIN OWENA Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Navy Microfinance bank",
+	  "code": "090263",
+	  "slug": "navy-microfinance-bank"
 	},
 	{
-		"name": "ONE FINANCE",
-		"bankly": "100026",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100026",
-		"korapay": ""
+	  "name": "Ndiorah MFB",
+	  "code": "090128",
+	  "slug": "ndiorah-mfb"
 	},
 	{
-		"name":"Optimus Bank",
-		"bankly":"",
-		"flutterwave":"",
-		"paystack":"",
-		"korapay":"",
-		"vfd":"000036"
+	  "code": "090329",
+	  "name": "Neptune Microfinance Bank",
+	  "slug": "neptune-microfinance-bank"
 	},
 	{
-		"name": "ORITABASORUN MFB",
-		"bankly": "090460",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090460",
-		"korapay": ""
+	  "code": "090378",
+	  "name": "New Golden Pastures Microfinance Bank",
+	  "slug": "new-golden-pastures-microfinance-bank"
 	},
 	{
-		"name": "OSPOLY MFB",
-		"bankly": "090456",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090456",
-		"korapay": ""
+	  "name": "New Prudential Bank",
+	  "code": "090108",
+	  "slug": "new-prudential-bank"
 	},
 	{
-		"name": "OakLand MFB",
-		"bankly": "090437",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090437",
-		"korapay": ""
+	  "name": "Newdawn Microfinance bank",
+	  "code": "090205",
+	  "slug": "newdawn-microfinance-bank"
 	},
 	{
-		"bankly": "090333",
-		"name": "Oche Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090505",
+	  "name": "Nigerian Prisons Microfinance Bank",
+	  "slug": "nigerian-prisons-microfinance-bank"
 	},
 	{
-		"name": "Okpoga MFB",
-		"bankly": "090161",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090161",
-		"korapay": ""
+	  "code": "090283",
+	  "name": "Nnew Women Microfinance Bank",
+	  "slug": "nnew-women-microfinance-bank"
 	},
 	{
-		"name": "Olabisi Onabanjo university Microfinance bank",
-		"bankly": "090272",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090272",
-		"korapay": ""
+	  "code": "090491",
+	  "name": "Nsuk MFB",
+	  "slug": "nsuk-mfb"
 	},
 	{
-		"bankly": "090404",
-		"name": "Olowolagba Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090364",
+	  "name": "Nuture Microfinance Bank",
+	  "slug": "nuture-microfinance-bank"
 	},
 	{
-		"bankly": "090471",
-		"name": "Oluchukwu Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090399",
+	  "name": "Nwannegadi Microfinance Bank",
+	  "slug": "nwannegadi-microfinance-bank"
 	},
 	{
-		"bankly": "090295",
-		"name": "Omiye Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "OHAFIA MFB",
+	  "code": "090119",
+	  "slug": "ohafia-mfb"
 	},
 	{
-		"name": "Omoluabi Mortgage Bank Plc",
-		"bankly": "070007",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "070007",
-		"korapay": ""
+	  "code": "090468",
+	  "name": "OLOFIN OWENA Microfinance Bank",
+	  "slug": "olofin-owena-microfinance-bank"
 	},
 	{
-		"bankly": "090492",
-		"name": "Oraukwu MFB",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "ONE FINANCE",
+	  "code": "100026",
+	  "slug": "one-finance"
 	},
 	{
-		"bankly": "090396",
-		"name": "Oscotech Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Optimus Bank",
+	  "code": "000036",
+	  "slug": "optimus-bank"
 	},
 	{
-		"name": "PARKWAY MFB",
-		"bankly": "090390",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "ORITABASORUN MFB",
+	  "code": "090460",
+	  "slug": "oritabasorun-mfb"
 	},
 	{
-		"name": "PEACE MFB",
-		"bankly": "090402",
-		"flutterwave": "",
-		"paystack": "50743",
-		"vfd": "090402",
-		"korapay": ""
+	  "name": "OSPOLY MFB",
+	  "code": "090456",
+	  "slug": "ospoly-mfb"
 	},
 	{
-		"name": "PLATINUM MORTGAGE BANK",
-		"bankly": "070013",
-		"flutterwave": "",
-		"paystack": "268",
-		"vfd": "070013",
-		"korapay": ""
+	  "name": "OakLand MFB",
+	  "code": "090437",
+	  "slug": "oakland-mfb"
 	},
 	{
-		"name": "POLARIS BANK",
-		"bankly": "000008",
-		"flutterwave": "076",
-		"paystack": "076",
-		"vfd": "000008",
-		"korapay": ""
+	  "code": "090333",
+	  "name": "Oche Microfinance Bank",
+	  "slug": "oche-microfinance-bank"
 	},
 	{
-		"name": "Paga",
-		"bankly": "100002",
-		"flutterwave": "327",
-		"paystack": "100002",
-		"vfd": "100002",
-		"korapay": "916"
+	  "name": "Okpoga MFB",
+	  "code": "090161",
+	  "slug": "okpoga-mfb"
 	},
 	{
-		"name": "Page MFBank",
-		"bankly": "070008",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "070008",
-		"korapay": ""
+	  "name": "Olabisi Onabanjo university Microfinance bank",
+	  "code": "090272",
+	  "slug": "olabisi-onabanjo-university-microfinance-bank"
 	},
 	{
-		"name": "PalmPay",
-		"bankly": "100033",
-		"flutterwave": "100033",
-		"paystack": "999991",
-		"vfd": "100033",
-		"korapay": "100033"
+	  "code": "090404",
+	  "name": "Olowolagba Microfinance Bank",
+	  "slug": "olowolagba-microfinance-bank"
 	},
 	{
-		"name": "Parallex",
-		"bankly": "",
-		"flutterwave": "",
-		"paystack": "104",
-		"vfd": "000030",
-		"korapay": ""
+	  "code": "090471",
+	  "name": "Oluchukwu Microfinance Bank",
+	  "slug": "oluchukwu-microfinance-bank"
 	},
 	{
-		"name": "Parkway-ReadyCash",
-		"bankly": "100003",
-		"flutterwave": "311",
-		"paystack": "311",
-		"vfd": "100003",
-		"korapay": "311"
+	  "code": "090295",
+	  "name": "Omiye Microfinance Bank",
+	  "slug": "omiye-microfinance-bank"
 	},
 	{
-		"bankly": "090004",
-		"name": "Parallex Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Omoluabi Mortgage Bank Plc",
+	  "code": "070007",
+	  "slug": "omoluabi-mortgage-bank-plc"
 	},
 	{
-		"bankly": "090317",
-		"name": "PatrickGold Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090492",
+	  "name": "Oraukwu MFB",
+	  "slug": "oraukwu-mfb"
 	},
 	{
-		"name": "PayAttitude Online",
-		"bankly": "110001",
-		"flutterwave": "110001",
-		"paystack": "",
-		"vfd": "110001",
-		"korapay": ""
+	  "code": "090396",
+	  "name": "Oscotech Microfinance Bank",
+	  "slug": "oscotech-microfinance-bank"
 	},
 	{
-		"name": "Paycom / OPAY",
-		"bankly": "100004",
-		"flutterwave": "305",
-		"paystack": "999992",
-		"vfd": "100004",
-		"korapay": "305"
+	  "name": "PARKWAY MFB",
+	  "code": "090390",
+	  "slug": "parkway-mfb"
 	},
 	{
-		"name": "Pecan Trust Microfinance Bank",
-		"bankly": "090137",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090137",
-		"korapay": ""
+	  "name": "PEACE MFB",
+	  "code": "090402",
+	  "slug": "peace-mfb"
 	},
 	{
-		"name": "Pennywise Microfinance bank",
-		"bankly": "090196",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090196",
-		"korapay": ""
+	  "name": "PLATINUM MORTGAGE BANK",
+	  "code": "070013",
+	  "slug": "platinum-mortgage-bank"
 	},
 	{
-		"name": "Personal Trust Microfinance Bank",
-		"bankly": "090135",
-		"flutterwave": "",
-		"paystack": "51146",
-		"vfd": "090135",
-		"korapay": ""
+	  "name": "POLARIS BANK",
+	  "code": "000008",
+	  "slug": "polaris-bank"
 	},
 	{
-		"name": "Petra Microfinance Bank",
-		"bankly": "090165",
-		"flutterwave": "",
-		"paystack": "50746",
-		"vfd": "090165",
-		"korapay": ""
+	  "name": "Paga",
+	  "code": "100002",
+	  "slug": "paga"
 	},
 	{
-		"bankly": "090289",
-		"name": "Pillar Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Page MFBank",
+	  "code": "070008",
+	  "slug": "page-mfbank"
 	},
 	{
-		"bankly": "090296",
-		"name": "Polyunwana Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "50864",
-		"vfd": "",
-		"korapay": ""
+	  "name": "PalmPay",
+	  "code": "100033",
+	  "slug": "palmpay"
 	},
 	{
-		"bankly": "090412",
-		"name": "Preeminent Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Parallex",
+	  "code": "000030",
+	  "slug": "parallex"
 	},
 	{
-		"name": "Prestige Microfinance bank",
-		"bankly": "090274",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090274",
-		"korapay": ""
+	  "name": "Parkway-ReadyCash",
+	  "code": "100003",
+	  "slug": "parkway-readycash"
 	},
 	{
-		"bankly": "090499",
-		"name": "Pristine Divitis Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090004",
+	  "name": "Parallex Bank",
+	  "slug": "parallex-bank"
 	},
 	{
-		"bankly": "090503",
-		"name": "Projects Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090317",
+	  "name": "PatrickGold Microfinance Bank",
+	  "slug": "patrickgold-microfinance-bank"
 	},
 	{
-		"name": "Providus",
-		"bankly": "000023",
-		"flutterwave": "101",
-		"paystack": "101",
-		"vfd": "000023",
-		"korapay": ""
+	  "name": "PayAttitude Online",
+	  "code": "110001",
+	  "slug": "payattitude-online"
 	},
 	{
-		"bankly": "090303",
-		"name": "Purplemoney Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Paycom / OPAY",
+	  "code": "100004",
+	  "slug": "paycom-/-opay"
 	},
 	{
-		"name": "QuickFund Microfinance bank",
-		"bankly": "090261",
-		"flutterwave": "",
-		"paystack": "51293",
-		"vfd": "090261",
-		"korapay": ""
+	  "name": "Pecan Trust Microfinance Bank",
+	  "code": "090137",
+	  "slug": "pecan-trust-microfinance-bank"
 	},
 	{
-		"name": "REGENT MFB",
-		"bankly": "090125",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090125",
-		"korapay": ""
+	  "name": "Pennywise Microfinance bank",
+	  "code": "090196",
+	  "slug": "pennywise-microfinance-bank"
 	},
 	{
-		"name": "RICHWAY MFB",
-		"bankly": "090132",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090132",
-		"korapay": ""
+	  "name": "Personal Trust Microfinance Bank",
+	  "code": "090135",
+	  "slug": "personal-trust-microfinance-bank"
 	},
 	{
-		"name": "RIGO MFB",
-		"bankly": "090433",
-		"flutterwave": "",
-		"paystack": "51286",
-		"vfd": "090433",
-		"korapay": ""
+	  "name": "Petra Microfinance Bank",
+	  "code": "090165",
+	  "slug": "petra-microfinance-bank"
 	},
 	{
-		"bankly": "090515",
-		"name": "RIMA Growth Pathway Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090289",
+	  "name": "Pillar Microfinance Bank",
+	  "slug": "pillar-microfinance-bank"
 	},
 	{
-		"name": "Rahama MFB",
-		"bankly": "090170",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090170",
-		"korapay": ""
+	  "code": "090296",
+	  "name": "Polyunwana Microfinance Bank",
+	  "slug": "polyunwana-microfinance-bank"
 	},
 	{
-		"name": "Rand Merchant Bank",
-		"bankly": "000024",
-		"flutterwave": "",
-		"paystack": "502",
-		"vfd": "000024",
-		"korapay": ""
+	  "code": "090412",
+	  "name": "Preeminent Microfinance Bank",
+	  "slug": "preeminent-microfinance-bank"
 	},
 	{
-		"name": "Refuge Mortgage Bank",
-		"bankly": "070011",
-		"flutterwave": "",
-		"paystack": "90067",
-		"vfd": "070011",
-		"korapay": ""
+	  "name": "Prestige Microfinance bank",
+	  "code": "090274",
+	  "slug": "prestige-microfinance-bank"
 	},
 	{
-		"bankly": "090463",
-		"name": "Rehoboth Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090499",
+	  "name": "Pristine Divitis Microfinance Bank",
+	  "slug": "pristine-divitis-microfinance-bank"
 	},
 	{
-		"name": "Reliance MFB",
-		"bankly": "090173",
-		"flutterwave": "090173",
-		"paystack": "",
-		"vfd": "090173",
-		"korapay": ""
+	  "code": "090503",
+	  "name": "Projects Microfinance Bank",
+	  "slug": "projects-microfinance-bank"
 	},
 	{
-		"name": "Renmoney microfinance bank",
-		"bankly": "090198",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090198",
-		"korapay": ""
+	  "name": "Providus",
+	  "code": "000023",
+	  "slug": "providus"
 	},
 	{
-		"bankly": "090322",
-		"name": "Rephidim Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090303",
+	  "name": "Purplemoney Microfinance Bank",
+	  "slug": "purplemoney-microfinance-bank"
 	},
 	{
-		"name": "Moniepoint Microfinance Bank",
-		"bankly": "090405",
-		"flutterwave": "090405",
-		"paystack": "50515",
-		"vfd": "090405",
-		"korapay": ""
+	  "name": "QuickFund Microfinance bank",
+	  "code": "090261",
+	  "slug": "quickfund-microfinance-bank"
 	},
 	{
-		"name": "Royal Exchange Microfinance Bank",
-		"bankly": "090138",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090138",
-		"korapay": ""
+	  "name": "REGENT MFB",
+	  "code": "090125",
+	  "slug": "regent-mfb"
 	},
 	{
-		"name": "Rubies MFB",
-		"bankly": "090175",
-		"flutterwave": "",
-		"paystack": "125",
-		"vfd": "090175",
-		"korapay": "125"
+	  "name": "RICHWAY MFB",
+	  "code": "090132",
+	  "slug": "richway-mfb"
 	},
 	{
-		"name": "SAFEGATE MFB",
-		"bankly": "090485",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090485",
-		"korapay": ""
+	  "name": "RIGO MFB",
+	  "code": "090433",
+	  "slug": "rigo-mfb"
 	},
 	{
-		"bankly": "090513",
-		"name": "SEAP Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090515",
+	  "name": "RIMA Growth Pathway Microfinance Bank",
+	  "slug": "rima-growth-pathway-microfinance-bank"
 	},
 	{
-		"name": "STB Mortgage Bank",
-		"bankly": "070022",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Rahama MFB",
+	  "code": "090170",
+	  "slug": "rahama-mfb"
 	},
 	{
-		"name": "STOCKCORP MFB",
-		"bankly": "090340",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090340",
-		"korapay": ""
+	  "name": "Rand Merchant Bank",
+	  "code": "000024",
+	  "slug": "rand-merchant-bank"
 	},
 	{
-		"name": "SUNBEAM MFB",
-		"bankly": "090302",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090302",
-		"korapay": ""
+	  "name": "Refuge Mortgage Bank",
+	  "code": "070011",
+	  "slug": "refuge-mortgage-bank"
 	},
 	{
-		"name": "SUNTRUST",
-		"bankly": "000022",
-		"flutterwave": "",
-		"paystack": "100",
-		"vfd": "000022",
-		"korapay": ""
+	  "code": "090463",
+	  "name": "Rehoboth Microfinance Bank",
+	  "slug": "rehoboth-microfinance-bank"
 	},
 	{
-		"name": "SUPPORT MFB",
-		"bankly": "",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090446",
-		"korapay": ""
+	  "name": "Reliance MFB",
+	  "code": "090173",
+	  "slug": "reliance-mfb"
 	},
 	{
-		"name": "Safe Haven MFB",
-		"bankly": "090286",
-		"flutterwave": "",
-		"paystack": "951113",
-		"vfd": "090286",
-		"korapay": ""
+	  "name": "Renmoney microfinance bank",
+	  "code": "090198",
+	  "slug": "renmoney-microfinance-bank"
 	},
 	{
-		"name": "SafeTrust",
-		"bankly": "090006",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090006",
-		"korapay": ""
+	  "code": "090322",
+	  "name": "Rephidim Microfinance Bank",
+	  "slug": "rephidim-microfinance-bank"
 	},
 	{
-		"name": "Sagamu Microfinance Bank",
-		"bankly": "090140",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090140",
-		"korapay": ""
+	  "name": "Moniepoint Microfinance Bank",
+	  "code": "090405",
+	  "slug": "moniepoint-microfinance-bank"
 	},
 	{
-		"name": "Seed Capital Microfinance Bank",
-		"bankly": "090112",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090112",
-		"korapay": ""
+	  "name": "Royal Exchange Microfinance Bank",
+	  "code": "090138",
+	  "slug": "royal-exchange-microfinance-bank"
 	},
 	{
-		"bankly": "090369",
-		"name": "Seedvest Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Rubies MFB",
+	  "code": "090175",
+	  "slug": "rubies-mfb"
 	},
 	{
-		"bankly": "090502",
-		"name": "Shalom Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "SAFEGATE MFB",
+	  "code": "090485",
+	  "slug": "safegate-mfb"
 	},
 	{
-		"bankly": "090401",
-		"name": "Shepherd Trust Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090513",
+	  "name": "SEAP Microfinance Bank",
+	  "slug": "seap-microfinance-bank"
 	},
 	{
-		"bankly": "090506",
-		"name": "Solid Allianze MFB",
-		"flutterwave": "",
-		"paystack": "51062",
-		"vfd": "",
-		"korapay": ""
+	  "name": "STB Mortgage Bank",
+	  "code": "070022",
+	  "slug": "stb-mortgage-bank"
 	},
 	{
-		"bankly": "090524",
-		"name": "SolidRock Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "50800",
-		"vfd": "",
-		"korapay": ""
+	  "name": "STOCKCORP MFB",
+	  "code": "090340",
+	  "slug": "stockcorp-mfb"
 	},
 	{
-		"name": "Sparkle",
-		"bankly": "090325",
-		"flutterwave": "",
-		"paystack": "51310",
-		"vfd": "090325",
-		"korapay": ""
+	  "name": "SUNBEAM MFB",
+	  "code": "090302",
+	  "slug": "sunbeam-mfb"
 	},
 	{
-		"name": "Spectrum MFB",
-		"bankly": "090436",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090436",
-		"korapay": ""
+	  "name": "SUNTRUST",
+	  "code": "000022",
+	  "slug": "suntrust"
 	},
 	{
-		"name": "Stanbic IBTC",
-		"bankly": "000012",
-		"flutterwave": "221",
-		"paystack": "221",
-		"vfd": "000012",
-		"korapay": ""
+	  "name": "SUPPORT MFB",
+	  "code": "090446",
+	  "slug": "support-mfb"
 	},
 	{
-		"name": "Stanbic Mobile Money",
-		"bankly": "100007",
-		"flutterwave": "100007",
-		"paystack": "",
-		"vfd": "100007",
-		"korapay": ""
+	  "name": "Safe Haven MFB",
+	  "code": "090286",
+	  "slug": "safe-haven-mfb"
 	},
 	{
-		"name": "Standard Chartered",
-		"bankly": "000021",
-		"flutterwave": "068",
-		"paystack": "068",
-		"vfd": "000021",
-		"korapay": ""
+	  "name": "SafeTrust",
+	  "code": "090006",
+	  "slug": "safetrust"
 	},
 	{
-		"name": "Stanford MFB",
-		"bankly": "090162",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090162",
-		"korapay": ""
+	  "name": "Sagamu Microfinance Bank",
+	  "code": "090140",
+	  "slug": "sagamu-microfinance-bank"
 	},
 	{
-		"name": "Stellas Microfinance bank",
-		"bankly": "090262",
-		"flutterwave": "",
-		"paystack": "51253",
-		"vfd": "090262",
-		"korapay": ""
+	  "name": "Seed Capital Microfinance Bank",
+	  "code": "090112",
+	  "slug": "seed-capital-microfinance-bank"
 	},
 	{
-		"name": "Sterling Bank",
-		"bankly": "000001",
-		"flutterwave": "232",
-		"paystack": "232",
-		"vfd": "000001",
-		"korapay": ""
+	  "code": "090369",
+	  "name": "Seedvest Microfinance Bank",
+	  "slug": "seedvest-microfinance-bank"
 	},
 	{
-		"bankly": "090305",
-		"name": "Sulspap Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090502",
+	  "name": "Shalom Microfinance Bank",
+	  "slug": "shalom-microfinance-bank"
 	},
 	{
-		"name": "TANGERINE MONEY",
-		"bankly": "090426",
-		"flutterwave": "",
-		"paystack": "51269",
-		"vfd": "090426",
-		"korapay": ""
+	  "code": "090401",
+	  "name": "Shepherd Trust Microfinance Bank",
+	  "slug": "shepherd-trust-microfinance-bank"
 	},
 	{
-		"name": "TCF",
-		"bankly": "090115",
-		"flutterwave": "",
-		"paystack": "51211",
-		"vfd": "090115",
-		"korapay": ""
+	  "code": "090506",
+	  "name": "Solid Allianze MFB",
+	  "slug": "solid-allianze-mfb"
 	},
 	{
-		"name": "TagPay",
-		"bankly": "100023",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100023",
-		"korapay": ""
+	  "code": "090524",
+	  "name": "SolidRock Microfinance Bank",
+	  "slug": "solidrock-microfinance-bank"
 	},
 	{
-		"name": "Taj Bank",
-		"bankly": "000026",
-		"flutterwave": "",
-		"paystack": "302",
-		"vfd": "000026",
-		"korapay": ""
+	  "name": "Sparkle",
+	  "code": "090325",
+	  "slug": "sparkle"
 	},
 	{
-		"bankly": "080002",
-		"name": "Taj_Pinspay",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Spectrum MFB",
+	  "code": "090436",
+	  "slug": "spectrum-mfb"
 	},
 	{
-		"bankly": "110007",
-		"name": "Teamapt Limited",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Stanbic IBTC",
+	  "code": "000012",
+	  "slug": "stanbic-ibtc"
 	},
 	{
-		"name": "TeasyMobile",
-		"bankly": "100010",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100010",
-		"korapay": ""
+	  "name": "Stanbic Mobile Money",
+	  "code": "100007",
+	  "slug": "stanbic-mobile-money"
 	},
 	{
-		"bankly": "090373",
-		"name": "Think Finance Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Standard Chartered",
+	  "code": "000021",
+	  "slug": "standard-chartered"
 	},
 	{
-		"name": "Titan Trust Bank",
-		"bankly": "000025",
-		"flutterwave": "",
-		"paystack": "102",
-		"vfd": "000025",
-		"korapay": ""
+	  "name": "Stanford MFB",
+	  "code": "090162",
+	  "slug": "stanford-mfb"
 	},
 	{
-		"name": "Paystack-Titan",
-		"bankly": "100039",
-		"flutterwave": "",
-		"paystack": "100039",
-		"vfd": "100039",
-		"korapay": ""
+	  "name": "Stellas Microfinance bank",
+	  "code": "090262",
+	  "slug": "stellas-microfinance-bank"
 	},
 	{
-		"name": "Trident Microfinance Bank",
-		"bankly": "090146",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090146",
-		"korapay": ""
+	  "name": "Sterling Bank",
+	  "code": "000001",
+	  "slug": "sterling-bank"
 	},
 	{
-		"bankly": "090327",
-		"name": "Trust Microfinance Bank"
+	  "code": "090305",
+	  "name": "Sulspap Microfinance Bank",
+	  "slug": "sulspap-microfinance-bank"
 	},
 	{
-		"name": "Trustbond",
-		"bankly": "090005",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090005",
-		"korapay": ""
+	  "name": "TANGERINE MONEY",
+	  "code": "090426",
+	  "slug": "tangerine-money"
 	},
 	{
-		"bankly": "090276",
-		"name": "Trustfund Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "TCF",
+	  "code": "090115",
+	  "slug": "tcf"
 	},
 	{
-		"bankly": "090315",
-		"name": "U & C Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "TagPay",
+	  "code": "100023",
+	  "slug": "tagpay"
 	},
 	{
-		"name": "UBA",
-		"bankly": "000004",
-		"flutterwave": "033",
-		"paystack": "033",
-		"vfd": "000004",
-		"korapay": "033"
+	  "name": "Taj Bank",
+	  "code": "000026",
+	  "slug": "taj-bank"
 	},
 	{
-		"bankly": "090331",
-		"name": "UNAAB Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "50870",
-		"vfd": "",
-		"korapay": ""
+	  "code": "080002",
+	  "name": "Taj_Pinspay",
+	  "slug": "taj_pinspay"
 	},
 	{
-		"name": "UNIBADAN MFB",
-		"bankly": "090461",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090461",
-		"korapay": ""
+	  "code": "110007",
+	  "name": "Teamapt Limited",
+	  "slug": "teamapt-limited"
 	},
 	{
-		"name": "UNIILORIN MFB",
-		"bankly": "",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090341",
-		"korapay": ""
+	  "name": "TeasyMobile",
+	  "code": "100010",
+	  "slug": "teasymobile"
 	},
 	{
-		"bankly": "090251",
-		"name": "UNN MFB",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "090373",
+	  "name": "Think Finance Microfinance Bank",
+	  "slug": "think-finance-microfinance-bank"
 	},
 	{
-		"bankly": "090517",
-		"name": "Uhuru Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "MFB51322",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Titan Trust Bank",
+	  "code": "000025",
+	  "slug": "titan-trust-bank"
 	},
 	{
-		"bankly": "090338",
-		"name": "UniUyo Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Paystack-Titan",
+	  "code": "100039",
+	  "slug": "paystack-titan"
 	},
 	{
-		"name": "Uniben Microfinance bank",
-		"bankly": "090266",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090266",
-		"korapay": ""
+	  "name": "Trident Microfinance Bank",
+	  "code": "090146",
+	  "slug": "trident-microfinance-bank"
 	},
 	{
-		"name": "Unical MFB",
-		"bankly": "090193",
-		"flutterwave": "",
-		"paystack": "50871",
-		"vfd": "090193",
-		"korapay": "090193"
+	  "code": "090327",
+	  "name": "Trust Microfinance Bank",
+	  "slug": "trust-microfinance-bank"
 	},
 	{
-		"bankly": "090464",
-		"name": "Unimaid Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Trustbond",
+	  "code": "090005",
+	  "slug": "trustbond"
 	},
 	{
-		"name": "Union Bank",
-		"bankly": "000018",
-		"flutterwave": "032",
-		"paystack": "032",
-		"vfd": "000018",
-		"korapay": "032"
+	  "code": "090276",
+	  "name": "Trustfund Microfinance Bank",
+	  "slug": "trustfund-microfinance-bank"
 	},
 	{
-		"name": "Unity Bank",
-		"bankly": "000011",
-		"flutterwave": "215",
-		"paystack": "215",
-		"vfd": "000011",
-		"korapay": ""
+	  "code": "090315",
+	  "name": "U & C Microfinance Bank",
+	  "slug": "u-&-c-microfinance-bank"
 	},
 	{
-		"name": "VFD Microfinance Bank",
-		"bankly": "090110",
-		"flutterwave": "",
-		"paystack": "566",
-		"vfd": "999999",
-		"korapay": "566"
+	  "name": "UBA",
+	  "code": "000004",
+	  "slug": "uba"
 	},
 	{
-		"name": "VTNetworks",
-		"bankly": "100012",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100012",
-		"korapay": ""
+	  "code": "090331",
+	  "name": "UNAAB Microfinance Bank",
+	  "slug": "unaab-microfinance-bank"
 	},
 	{
-		"bankly": "110015",
-		"name": "Vas2nets Limited",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "UNIBADAN MFB",
+	  "code": "090461",
+	  "slug": "unibadan-mfb"
 	},
 	{
-		"bankly": "090474",
-		"name": "Verdant Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "UNIILORIN MFB",
+	  "code": "090341",
+	  "slug": "uniilorin-mfb"
 	},
 	{
-		"name": "Verite Microfinance Bank",
-		"bankly": "090123",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090123",
-		"korapay": ""
+	  "code": "090251",
+	  "name": "UNN MFB",
+	  "slug": "unn-mfb"
 	},
 	{
-		"name": "Virtue MFB",
-		"bankly": "090150",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090150",
-		"korapay": ""
+	  "code": "090517",
+	  "name": "Uhuru Microfinance Bank",
+	  "slug": "uhuru-microfinance-bank"
 	},
 	{
-		"name": "Visa Microfinance Bank",
-		"bankly": "090139",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090139",
-		"korapay": ""
+	  "code": "090338",
+	  "name": "UniUyo Microfinance Bank",
+	  "slug": "uniuyo-microfinance-bank"
 	},
 	{
-		"name": "WETLAND MFB",
-		"bankly": "090120",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090120",
-		"korapay": ""
+	  "name": "Uniben Microfinance bank",
+	  "code": "090266",
+	  "slug": "uniben-microfinance-bank"
 	},
 	{
-		"name": "Wema",
-		"bankly": "000017",
-		"flutterwave": "035",
-		"paystack": "035",
-		"vfd": "000017",
-		"korapay": ""
+	  "name": "Unical MFB",
+	  "code": "090193",
+	  "slug": "unical-mfb"
 	},
 	{
-		"name": "XSLNCE Microfinance Bank",
-		"bankly": "090124",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090124",
-		"korapay": ""
+	  "code": "090464",
+	  "name": "Unimaid Microfinance Bank",
+	  "slug": "unimaid-microfinance-bank"
 	},
 	{
-		"bankly": "090466",
-		"name": "YCT Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Union Bank",
+	  "code": "000018",
+	  "slug": "union-bank"
 	},
 	{
-		"name": "Yes MFB",
-		"bankly": "090142",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090142",
-		"korapay": ""
+	  "name": "Unity Bank",
+	  "code": "000011",
+	  "slug": "unity-bank"
 	},
 	{
-		"bankly": "090252",
-		"name": "Yobe Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "VFD Microfinance Bank",
+	  "code": "999999",
+	  "slug": "vfd-microfinance-bank"
 	},
 	{
-		"name": "Zenith Bank",
-		"bankly": "000015",
-		"flutterwave": "057",
-		"paystack": "057",
-		"vfd": "000015",
-		"korapay": ""
+	  "name": "VTNetworks",
+	  "code": "100012",
+	  "slug": "vtnetworks"
 	},
 	{
-		"bankly": "100034",
-		"name": "Zenith Eazy Wallet",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "code": "110015",
+	  "name": "Vas2nets Limited",
+	  "slug": "vas2nets-limited"
 	},
 	{
-		"name": "ZenithMobile",
-		"bankly": "100018",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100018",
-		"korapay": ""
+	  "code": "090474",
+	  "name": "Verdant Microfinance Bank",
+	  "slug": "verdant-microfinance-bank"
 	},
 	{
-		"bankly": "090504",
-		"name": "Zikora Microfinance Bank",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "",
-		"korapay": ""
+	  "name": "Verite Microfinance Bank",
+	  "code": "090123",
+	  "slug": "verite-microfinance-bank"
 	},
 	{
-		"name": "Zinternet - KongaPay",
-		"bankly": "100025",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "100025",
-		"korapay": ""
+	  "name": "Virtue MFB",
+	  "code": "090150",
+	  "slug": "virtue-mfb"
 	},
 	{
-		"name": "e-BARCs MFB",
-		"bankly": "090156",
-		"flutterwave": "",
-		"paystack": "",
-		"vfd": "090156",
-		"korapay": ""
+	  "name": "Visa Microfinance Bank",
+	  "code": "090139",
+	  "slug": "visa-microfinance-bank"
 	},
 	{
-		"name": "eTranzact",
-		"bankly": "100006",
-		"flutterwave": "306",
-		"paystack": "",
-		"vfd": "100006",
-		"korapay": "920"
+	  "name": "WETLAND MFB",
+	  "code": "090120",
+	  "slug": "wetland-mfb"
+	},
+	{
+	  "name": "Wema",
+	  "code": "000017",
+	  "slug": "wema"
+	},
+	{
+	  "name": "XSLNCE Microfinance Bank",
+	  "code": "090124",
+	  "slug": "xslnce-microfinance-bank"
+	},
+	{
+	  "code": "090466",
+	  "name": "YCT Microfinance Bank",
+	  "slug": "yct-microfinance-bank"
+	},
+	{
+	  "name": "Yes MFB",
+	  "code": "090142",
+	  "slug": "yes-mfb"
+	},
+	{
+	  "code": "090252",
+	  "name": "Yobe Microfinance Bank",
+	  "slug": "yobe-microfinance-bank"
+	},
+	{
+	  "name": "Zenith Bank",
+	  "code": "000015",
+	  "slug": "zenith-bank"
+	},
+	{
+	  "code": "100034",
+	  "name": "Zenith Eazy Wallet",
+	  "slug": "zenith-eazy-wallet"
+	},
+	{
+	  "name": "ZenithMobile",
+	  "code": "100018",
+	  "slug": "zenithmobile"
+	},
+	{
+	  "code": "090504",
+	  "name": "Zikora Microfinance Bank",
+	  "slug": "zikora-microfinance-bank"
+	},
+	{
+	  "name": "Zinternet - KongaPay",
+	  "code": "100025",
+	  "slug": "zinternet-kongapay"
+	},
+	{
+	  "name": "e-BARCs MFB",
+	  "code": "090156",
+	  "slug": "e-barcs-mfb"
+	},
+	{
+	  "name": "eTranzact",
+	  "code": "100006",
+	  "slug": "etranzact"
 	}
-]
+  ]
+  
